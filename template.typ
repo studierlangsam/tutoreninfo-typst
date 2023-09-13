@@ -11,6 +11,9 @@
   set text(font: body-font, lang: "de")
   show heading: set text(font: sans-font)
 
+  // Set custom style.
+  show link: set text(fill: rgb("#ed028c"))
+
   // Title row.
   pad(
     bottom: 2em,
@@ -35,7 +38,6 @@
 
   // Main body.
   set par(justify: true)
-  show: columns.with(2, gutter: 1.3em)
 
   body
 }
