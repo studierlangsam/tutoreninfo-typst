@@ -4,8 +4,9 @@
   set page(numbering: "1", number-align: center, paper: "a4")
 
   // Save heading and body font families in variables.
-  let body-font = "Linux Libertine"
-  let sans-font = "Inria Sans"
+  // TODO: does not load the fonts for some reason
+  let body-font = "LM Roman 10"
+  let sans-font = "LM Sans 10"
 
   // Set body font family.
   set text(font: body-font, lang: "de")
