@@ -252,7 +252,7 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
 
 === Campustour / Schnitzeljagd
 
-TODO: neues Konzept
+TODO HIGH PRIO: neues Konzept
 
 === O-Grillen
 
@@ -387,6 +387,9 @@ Lovelace: TODO \
 
 13 - 17 Uhr, Forum.
 
+Alternativprogramm für schlechtes Wetter wird spontan gefunden.
+Eine Möglichkeit: Spieleabend schon Nachmittags beginnen.
+
 === Abendessen
 
 18 - 18 Uhr.
@@ -427,7 +430,8 @@ Folgende Personen kümmern sich um die Durchführung:
   [Naturkundemuseum], [TODO],
   [ZKM], [TODO],
   [Bouldern], [TODO nochmal?],
-  [Minigolf], [TODO]
+  [Minigolf], [TODO],
+  [Zoo], [TODO (Lea?)]
   // TODO: mehr/andere?
 )
 
@@ -441,7 +445,7 @@ Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter glieh
 
 + Transporter holen (TODO: how to)
 + Altbestände und Equipment von Flo holen *und zum HaDiKo bringen*
-+ Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?)
++ Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?, Im Zweifel kriegen wir über die FS eine)
 + Transporter zurückbringen (TODO: how to)
 
 === Cocktailabend
