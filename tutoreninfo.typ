@@ -20,8 +20,10 @@
   [], vlinex(), [*Lovelace*], [*Turing*],
   hlinex(),
   [Leute],
-    [#link("tel:+49 1517 0809249")[Linus], #link("tel:+49 1515 0886731")[Alina], ...],
-    [#link("tel:+49 176 56858645")[Dominik], #link("tel:+49 152 09858207")[Linda], ...],
+    [#link("tel:+49 1517 0809249")[Linus], #link("tel:+49 1515 0886731")[Alina],
+    Cian, Jan-Arne, Katha, Leo, Max, Piotr, Tamira],
+    [#link("tel:+49 176 56858645")[Dominik], #link("tel:+49 152 09858207")[Linda],
+    Anh, Florian, Jens, Jonas, Karina, Leon, Yannick],
   hlinex(),
   [Räume]
 )
@@ -114,8 +116,6 @@ Auf der #link("https://studierlangsam.de/wochenplan")[Website] oder #link(label(
 
 == Montag
 
-// TODO: wie letztes Jahr aber mit aktuellen Infos
-
 === Einkauf <einkauf>
 
 Lagern wo? Mathebauraum?
@@ -152,6 +152,7 @@ X leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu u
 Die Untergruppen geben, sobald sie ankommen, allen Erstis Namensschilder (Crepeband + Edding), begrüßen sie und *binden sie in Gespräche ein* (bis zu den Kennenlernspielen).
 Dabei kann schoneinmal darauf hingewiesen werden, dass sie alle auf den #link(label("discord"))[Discord] sollen.
 // TODO: Freischaltung im Discord für den ersten Tag oder die ganze O-Phase ausschlaten/bypassen?
+// stattdessen: Reaction Role für Gruppen
 
 
 === Pizza
@@ -159,14 +160,13 @@ Dabei kann schoneinmal darauf hingewiesen werden, dass sie alle auf den #link(la
 Jede Untergruppe zählt wie viele Menschen vegane, vegetarische oder Pizza mit
 Schweinefleisch essen wollen. Diese Zahlen müssen schnellstmöglich an Karina
 gemeldet werden, sodass sie berechnen kann wie viel Pizza wir wo bestellen.
-Diese Pizzen werden dann von X und X zum Mathebau bestellt und dann zu den Gruppen gebrach.
-// TODO: Hat sich der Mathebau als Ziel bewährt?
+Diese Pizzen werden dann zum Haus gegenüber vom Mathebau bestellt und dann von mind. 2 Leuten abgeholt und zu den Gruppen gebracht.
 
 Im Besten Fall ist die Pizza so früh da, dass wir vor den #link(label("kennenlernen"))[Kennenlernspielen] mit Essen fertig sind und damit das Essen den Orgakram überdeckt.
 
 === Zum Schloss laufen
 
-Vor das Schloss oder hinter das Schloss oder beides.
+Jede Gruppe geht zu jeweils einem Brunnen vor dem Schloss.
 Auf dem Weg holen Linus und X #link(label("getränke"))[Getränke] aus dem Mathebau ab.
 
 === Zensus und Steuereintreibung
@@ -180,9 +180,6 @@ Kurz bevor die Pizza kommt, sammelt Linus von allen Erstis und Tutierenden Geld 
 )
 Die sind für die Pizza, die Getränke beim Kennenlernen, am Mittwoch und beim Spieleabend, die Brötchen am Mittwoch sowie Fixkosten gedacht.
 // TODO: Namen, Untergruppe und E-Mail erfassen? Alternativ könnte man das im Discord machen. Wann Cocktailabend Anmeldung? Reicht eigentlich bis Mi/Do oder? 
-
-// TODO: Linda passt Reservierungen an?
-// TODO: Linda sollte nicht Reservierungen und Bespaßung verantworten zu dieser Zeit
 
 === Erstiinformierung
 
@@ -199,7 +196,6 @@ Folgende allgemeine Infos sollten die Erstis noch erhalten:
 
 === Kennenlernen <kennenlernen>
 
-// TODO: Linda sollte nicht Reservierungen und Bespaßung verantworten zu dieser Zeit
 Bälle und Bingoblätter gibt es bei Linda abzuholen.
 
 Die Länge der Spiele sollten der Gruppendynamik angepasst werden.
@@ -218,18 +214,16 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
   werden (spätestens beim 4. Ball wird es vermutlich chaotisch). Benötigt
   werden pro Gruppe 4 unterscheidbare Bälle.
 
-- *Bingo:* 
-  Die Felder auf den Bingoblättern mit Namen von
-  Anderen füllen, welche die jeweilige Eigenschaft haben.
-
 - *In Ecken stellen:* Die Erstis sollen sich bei jeder der
   folgenden Fragen einer Ecke, also einer Antwort, zuordnen. In jeder Ecke
   sollte ein:e Tutor:in stehen, welche:r sich kurz mit den Erstis
   unterhält.
   + Superkraft (Fliegen, Unsichtbar, Gedankenlesen, Zeit zurückdrehen)
   + Studienfach (Info, Mathe, Lehramt #footnote[Auf die gesonderten *anmeldepflichtigen* Lehramtveranstaltungen hinweisen], Techno-/Wirtschaftsmathe)
-  + Wie man zur Uni kommt (Fahrrad, ÖPNV, zu Fuß, Auto)
+  + Wie man zur Uni kommt (Fahrrad, ÖPNV, zu Fuß, Auto) #footnote[Fahrrad ist das überlegendste Verkehrsmittel. Bringt es morgen mit für's Bouldern!]
   + Vegetarisch, Vegan, Flexitarisch, Fleisch
+  + Wer kommt morgen zum Frühstück? (Ja, Nein, Vielleicht, "Morgen geht's weiter?")
+    Ergebnisse werden an Linda gemeldet. Linda passt ggf. Reservierungen an.
   + Wasser (mit Kohlensäure, ohne Kohlensäure, nein)
   + KIT-Karte (hat man schon, hat man noch nicht, nicht mal Bild hochgeladen #footnote[Bitte Ändern])
   + Wohnheim, WG, Eltern, Allein, keine Wohnung #footnote[evtl. auf https://www.asta-kit.de/notunterkuenfte hinweisen]
@@ -257,6 +251,10 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
   + Stimmhöhe
   + (Wie viele Liegestützen)
   + Herkunftsort (Landkarte)
+  
+- *Bingo:* 
+  Die Felder auf den Bingoblättern mit Namen von
+  Anderen füllen, welche die jeweilige Eigenschaft haben.
 
 === Campustour / Schnitzeljagd
 
@@ -272,14 +270,19 @@ ab 18 Uhr, Infobau.
 
 === Frühstück
 
-9 Uhr, TODO
+9 Uhr. \
+Lovelace: TODO (Coffee Box) \
+Turing: alinacafe (25 Leute) \
 
 Tutoren bringen (Karten)-spiele mit.
 X bringt eine Liste mit, in die Leute eintragen können, was sie morgen zum Frühstück mitbringen.
 
 === Füller
 
-TODO HIGH PRIO
+Wikinger Schach, Spikeball, Frusby, Werwolf und weiteres im Park spielen.
+Tutoren mit Fahrrädern sorgen dafür, dass darauf nicht gewartet werden muss.
+
+Jetzt ist auch ein guter Zeitpunkt um mit Leuten noch ihre KIT-Karte abzuholen.
 
 === Mensa
 
@@ -305,7 +308,9 @@ Für Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institu
 
 === Bouldern
 
-TODO HIGH PRIO: logistisches Konzept ausarbeiten (Gruppengrößen, Hallen, Transportmittel)
+Wer ein eigenes Fahrrad dabei hat -> Steil \
+Alle anderen -> Boulderwelt 
+
 *Nicht* allen sagen, dass Steil besser ist :).
 
 === O-Phest
@@ -373,8 +378,8 @@ Das ist neben der #link(label("fbi"))[FBI] das einzige Master-spezifische Progra
 === Kneipentour <kneipentour>
 
 20 Uhr.\
-Euler: Euro / Marktplatz\
-Lovelace: Durlacher Tor
+Lovelace: Durlacher Tor \
+Turing: Euro / Marktplatz \
 
 Es werden Bars und Kneipen besucht.
 Zur Orientierung dient #link("https://drive.google.com/open?id=1jC564CVZ7v8D6RQNnrH-SDXFXUIfAhEyurY_9PQ_fd4")[diese Tabelle].
@@ -392,8 +397,8 @@ Wir versuchen, im Shotz zu enden (hat bis 2 Uhr auf).
 === Frühstück
 
 10 Uhr. \
-Euler: TODO \
-Lovelace: TODO \
+Lovelace: alinacafe (25 Leute) \
+Turing: Palaver (25 Leute) \
 
 Tutoren bringen (Karten)-spiele mit.
 
@@ -406,16 +411,20 @@ Eine Möglichkeit: Spieleabend schon Nachmittags beginnen.
 
 === Abendessen
 
-18 - 18 Uhr.
-u.A. im Ox Ost
-TODO
+18 Uhr. \
+Lovelace: Vegiez (30 Leute) \
+Turing: Vietaroma (30 Leute) \
+Gemischt: Ox Ost (20 Leute, wird am ehesten abgesagt) \
+
+Alternativ kann man das selbst entscheiden lassen über eine Nachricht im Discord.
 
 === Spieleabend <spieleabend>
 
 ab 20 Uhr, #link(label("rooms"))[Räume im Mathebau].
 
 Montag wurde bereits Knabberzeug #link(label("einkauf"))[besorgt].
-Tutoren und Erstis bringen Spiele mit.
+Tutoren und Erstis bringen Spiele mit. \
+Wenn Interesse besteht, dann kann man ein _Let's play Campussystem_ anbieten.
 
 == Freitag
 
@@ -470,10 +479,12 @@ Teilnahme nur nach Anmeldung bis XY.
 Es wird zeitlich passend der #link("https://discord.com/channels/739522765677133894/963505261388107846/1030438323086438440")[Anfahrtsplan] verschickt.
 
 Flo? hat die K1-Bar gemietet.
-Der Aufbau beginnt um 15 Uhr und wird von Max (und X) organisiert.
+Der Aufbau beginnt um 15 Uhr und wird von Max organisiert.
 Alle Helfer der Barschichten sollen ab 19 Uhr der Bareinführung lauschen.
 #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfer Schichtenplan].
 
+Am Eingang werden Ausweise kontrolliert und Stempel vergeben.
+An der Bar werden (mindestens stichprobenartig) Stempel kontrolliert.
 
 
 == Samstag
