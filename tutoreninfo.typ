@@ -56,6 +56,7 @@ Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der Fachschaf
 
 Der Hauptkommunikationskanal für die O-Phase
 soll der Discord sein. \
+Discord kann auf den #link("https://discord.com")[offiziellen Kanälen] oder hier (TODO: self-hosted APK) heruntergeladen werden. Letzteres erfordert keine Altersbestätigung.
 Der Einladungslink ist: #link("https://discord.gg/bVsUY5D4mM")[discord.gg/bVsUY5D4mM]
 Folgender QR-Code führt zum Discord und ist auch auf den Visitenkarten zu finden:
 
@@ -86,7 +87,10 @@ Das am Besten über Linus machen.
 
 == Infos für Erstis
 
-Man findet in sehr vielen Belangen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discrod].
+Fragen zum Aufbau des Studiums und zu einigen prüfungsrelevanten Regelungen werden in der #link("https://www.fsmi.uni-karlsruhe.de/Studium/Studienanfaenger/")[Erstiinfo] beantwortet.
+Generell kann die Fachschaft (also auch wir) einem bei vielem Helfen.
+
+Man findet in sehr vielen (v.a. inhaltlichen) Belangen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discrod].
 
 Man kann als Info Ana und LA für Mathes hören.
 Allerdings ist anders als früher LA stärker getrennt.
@@ -94,6 +98,10 @@ Mindestens didaktisch evtl. auch inhaltlich.
 
 Niemand wird in ein Doppelstudium gebaitet.
 Dazu gehört, dass nicht durch eine Häufung von Doppelstudenten in unseren Reihen der Eindruck entsteht, das würde fast jeder machen.
+
+=== KIT-WLAN
+
+// TODO: Anleitung (verlinken)
 
 
 
@@ -266,6 +274,9 @@ ab 18 Uhr, Infobau.
 
 9 Uhr, TODO
 
+Tutoren bringen (Karten)-spiele mit.
+X bringt eine Liste mit, in die Leute eintragen können, was sie morgen zum Frühstück mitbringen.
+
 === Füller
 
 TODO HIGH PRIO
@@ -323,6 +334,7 @@ Für heute sind #link(label("getränke"))[Getränke] bei der Fachschaft bestellt
 ab 9 Uhr in den #link(label("rooms"))[Räumen im Mathebau].
 
 Belag bringen die Erstis mit.
+Tutoren bringen (Karten)-spiele mit.
 
 X besorgt 2 Brötchen pro Person.
 // TODO: wieder okay?
@@ -382,6 +394,8 @@ Wir versuchen, im Shotz zu enden (hat bis 2 Uhr auf).
 10 Uhr. \
 Euler: TODO \
 Lovelace: TODO \
+
+Tutoren bringen (Karten)-spiele mit.
 
 === O-Lympia
 
