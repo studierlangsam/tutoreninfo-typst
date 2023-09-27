@@ -13,22 +13,31 @@
 
 = Räume und Leute <rooms>
 
-// TODO: Tabelle so ähnlich wie letztes Jahr
 #gridx(
   columns: 3,
 
   [], vlinex(), [*Lovelace*], [*Turing*],
   hlinex(),
+
   [Leute],
     [#link("tel:+49 1517 0809249")[Linus], #link("tel:+49 1515 0886731")[Alina],
     Cian, Jan-Arne, Katha, Leo, Max, Piotr, Tamira],
     [#link("tel:+49 176 56858645")[Dominik], #link("tel:+49 152 09858207")[Linda],
     Anh, Florian, Jens, Jonas, Karina, Leon, Yannick],
+  
   hlinex(),
-  [Räume]
+  [Räume], // FSTODO
+    [],
+    [],
+
+  hlinex(),
+  [Lokale],
+    [TODO, alina café, Vegiez, (Ox Ost)], // TODO
+    [alina café, Café Palaver, Vietaroma, (Ox Ost)]
+
 )
 
-// TODO: (zusätzlich?) an passende Stelle im Wochenplan schreiben (je nachdem, wann wir die Räumen bekommen)
+// FSTODO: je nachdem wann wir welche Räumen bekommen -> an passende Stelle in Woche unten schreiben
 Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der Fachschaft zu hinterlegen ist.
 
 = Wochenplan <wochenplan>
@@ -45,10 +54,7 @@ Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der Fachschaf
 
 == Telefonnummern
 
-#table(
-  columns: 2,
-  stroke: none,
-
+#dict(
   [Hauptorga], [#link("tel:+49 721 48074683")[+49 721 48074683]],
   [Campus Notruf], [#link("tel:+49 721 608 3333")[+49 721 608 3333]],
   [Studier Langsam], [#link(label("rooms"))[oben]]
@@ -72,9 +78,9 @@ Linus hat Getränke bestellt und die Bezahlung vorgestreckt.
 + Überlegen, wie viel wovon geholt werden soll. #link("https://docs.google.com/spreadsheets/d/1f_7Lspvlk9joL6o8ejnzErGTq_sEQOfAlsCsn24Jy6A/edit?usp=sharing")[Hier] ist die aufgeschlüsselte Bestellung.
 + In die Mathe-Fachschaft gehen und sagen, was man will.
   Bezahlt werden muss hier nicht mehr.
-// TODO Linus: gucken, ob das so passt (ggf. mit Jakob sprechen)
+// FSTODO Linus nach Bestellung: gucken, ob das so passt (ggf. mit Jakob sprechen)
 + Quittung über die Getränke vom FSler ausfüllen lassen, prüfen, unterschreiben. Wir bekommen den Durschlag der Quittung.
-+ Quittung bei Gelegenheit Linus geben oder mindestens über Abholung informieren.
++ Quittung bei Gelegenheit Linus geben oder mindestens über die Abholung informieren.
 
 === Pfand
 + Flaschen und Kästen aufheben, da ist Pfand drauf. Ggf. auch den Erstis sagen.
@@ -90,20 +96,28 @@ Das am Besten über Linus machen.
 == Infos für Erstis
 
 Fragen zum Aufbau des Studiums und zu einigen prüfungsrelevanten Regelungen werden in der #link("https://www.fsmi.uni-karlsruhe.de/Studium/Studienanfaenger/")[Erstiinfo] beantwortet.
+
 Generell kann die Fachschaft (also auch wir) einem bei vielem Helfen.
 
 Man findet in sehr vielen (v.a. inhaltlichen) Belangen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discrod].
 
 Man kann als Info Ana und LA für Mathes hören.
-Allerdings ist anders als früher LA stärker getrennt.
-Mindestens didaktisch evtl. auch inhaltlich.
+Die beiden LAs werden dieses Jahr sehr wahrscheinlich getrennt ablaufen.
+Dieses Jahr sind die Mathe-Vorlesungen als Info eher mit Vorsicht zu genießen. (Hundertmark vs Herzog, Hartnick vs Kühnlein/Dahmen)
 
 Niemand wird in ein Doppelstudium gebaitet.
 Dazu gehört, dass nicht durch eine Häufung von Doppelstudenten in unseren Reihen der Eindruck entsteht, das würde fast jeder machen.
 
 === KIT-WLAN
 
-// TODO: Anleitung (verlinken)
+Auf dieser #link("https://www.scc.kit.edu/dienste/wlan.php")[SCC Seite] unten stehen Schritt-für-Schritt-Anleitungen für alle™ Betriebsysteme.
+Unvollständige Zusammenfassung:
+
++ #link("https://pki.pca.dfn.de/kit-ca/cgi-bin/pub/pki?cmd=getStaticPage;name=index;id=2&RA_ID=0")[Wurzelzertifikat] installieren
++ Im WLAN anmelden
+  - SSID: #mono[KIT]
+  - Username: #mono[uxxxx\@kit.edu]
+  - Passwort: KIT-Account-Passwort
 
 
 
@@ -118,11 +132,11 @@ Auf der #link("https://studierlangsam.de/wochenplan")[Website] oder #link(label(
 
 === Einkauf <einkauf>
 
-Lagern wo? Mathebauraum?
+// TODO: Einkauf
 Vielleicht schon in der Vorwoche erledigen?
+Lagern wo? Mathebauraum?
 Wer? (Piotr?)
 
-// TODO: pflegen
 Einkaufsliste:
 - Crepeband + Edding für Namensshilder
 - Kekse 🍪
@@ -139,21 +153,25 @@ gibt, sollten die U-Boote natürlich wieder gehen (Codewort dafür ist
 Zwischen 9:30 und 9:45 Uhr erscheinen wir als Gruppe vor den Audimax ohne dass uns die Erstis drinnen entdecken.
 Die U-Boote kommen dazu, nachdem sie ihre Rolle verlassen.
 Gegen 10:00 Uhr fängt die Gruppenvorstellung an.
+// FSTODO
 Wir sind als X. bzw. X. letzte Gruppe *nach X* dran.
 Es wird unser Film gezeigt und Jonas erzählt was zu uns und unseren Wochenplan.
 
 === Erstisammlung
 
 Nach der Vorstellung warten wir als Gruppe WO.
-Sollte die digitale Einteilung funktionieren, holt X unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
+Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
+// TODO
 Wenn abzusehen ist, dass wir insgesamt weniger als X (40?) Erstis haben, dann legen wir die Kleingruppen zusammen.
+// AUFGABE
 X leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
 
 Die Untergruppen geben, sobald sie ankommen, allen Erstis Namensschilder (Crepeband + Edding), begrüßen sie und *binden sie in Gespräche ein* (bis zu den Kennenlernspielen).
 Dabei kann schoneinmal darauf hingewiesen werden, dass sie alle auf den #link(label("discord"))[Discord] sollen.
-// TODO: Freischaltung im Discord für den ersten Tag oder die ganze O-Phase ausschlaten/bypassen?
-// stattdessen: Reaction Role für Gruppen
 
+// TODO letzte Woche vor O-Phase:
+// Freischaltung im Discord ersetzen mit Reaction Role
+// Kleingruppe, Studiengang (Erstirolle automatisch)
 
 === Pizza
 
@@ -163,18 +181,17 @@ gemeldet werden, sodass sie berechnen kann wie viel Pizza wir wo bestellen.
 Diese Pizzen werden dann zum Haus gegenüber vom Mathebau bestellt und dann von mind. 2 Leuten abgeholt und zu den Gruppen gebracht.
 
 Im Besten Fall ist die Pizza so früh da, dass wir vor den #link(label("kennenlernen"))[Kennenlernspielen] mit Essen fertig sind und damit das Essen den Orgakram überdeckt.
+Ansonsten ist das Ecken und Sortieren auch mit Pizza essen kompatibel und im Zweifel macht man einfach eine Pause von den Kennenlernspielen.
 
 === Zum Schloss laufen
 
 Jede Gruppe geht zu jeweils einem Brunnen vor dem Schloss.
-Auf dem Weg holen Linus und X #link(label("getränke"))[Getränke] aus dem Mathebau ab.
+Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem Mathebau ab.
 
 === Zensus und Steuereintreibung
 
 Kurz bevor die Pizza kommt, sammelt Linus von allen Erstis und Tutierenden Geld ein.
-#table(
-  columns: 2,
-  stroke: none,
+#dict( // TODO Steuer
   [X€], [mit Pizza],
   [X€], [ohne Pizza]
 )
@@ -183,16 +200,13 @@ Die sind für die Pizza, die Getränke beim Kennenlernen, am Mittwoch und beim S
 
 === Erstiinformierung
 
-// TODO: wie mit redundantem zu Eckenspiel umgehen?
-
 Folgende allgemeine Infos sollten die Erstis noch erhalten:
 - Wer noch keine Visitenkarte hat, sollte jetzt eine bekommen
 - Wer noch nicht auf dem Discord ist, sollte mit dem QR-Code auf der Visitenkarte beitreten
-- Wochenplan
-- Fahrräder mitbringen! Nicht notwendig aber macht flexibler.
-- Cocktailabend Freitag
+- Wochenplan bis morgen
+  - Fahrrad mitbringen!
+  - Sportsachen mitbringen für's Bouldern (Straßenklamotten tun es aber tatsächlich auch)
 - Bild hochladen für KIT-Card, wir können auch beim Abholen helfen
-- Gesonderte anmeldepflichtige #link(label("lehramt"))[Lehramt-O-Phase]
 
 === Kennenlernen <kennenlernen>
 
@@ -258,7 +272,7 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
 
 === Campustour / Schnitzeljagd
 
-TODO HIGH PRIO: neues Konzept
+// TODO HIGH PRIO: neues Konzept (Anh ist dran)
 
 === O-Grillen
 
@@ -275,7 +289,7 @@ Lovelace: TODO (Coffee Box) \
 Turing: alinacafe (25 Leute) \
 
 Tutoren bringen (Karten)-spiele mit.
-X bringt eine Liste mit, in die Leute eintragen können, was sie morgen zum Frühstück mitbringen.
+Linda bringt eine Liste mit, in die Leute eintragen können, was sie #link(label("frühstück-mi"))[morgen zum Frühstück] mitbringen. Für Brötchen ist gesorgt.
 
 === Füller
 
@@ -295,12 +309,14 @@ Daran denken, dazukommende vor der Mensa aufzugabeln.
 
 === FBI <fbi>
 
-#table(
-  columns: 2,
-  stroke: none,
+Erstis werden zu den Fachbereichsinformationen gebracht.
+Termine:
 
-  [Bachelor], [14 Uhr, Hörsaal TBA],
-  [Master], [14 Uhr, Hörsaal TBA],
+#dict(
+  [Info Bachelor], [14 Uhr, Audimax],
+  [Mathe Bachelor], [14 Uhr, Neue Chemie],
+  [Info Master], [14 Uhr, Infobau -101],
+  [Mathe Master], [14 Uhr, Infobau -102],
 )
 
 Für #link(label("lehramt"))[Lehramt] gibt es gesondert am Mittwoch Programm.
@@ -308,19 +324,33 @@ Für Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institu
 
 === Bouldern
 
-Wer ein eigenes Fahrrad dabei hat -> Steil \
-Alle anderen -> Boulderwelt 
+16 Uhr / nach FBI, Forum
 
-*Nicht* allen sagen, dass Steil besser ist :).
+Wer ein eigenes Fahrrad dabei hat $->$ Steil \
+Alle anderen $->$ Boulderwelt
+
+Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
+Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
+
+Um Zeit zu sparen, können die Erstis sich schoneinmal online registrieren:
+#link("https://www.boulderwelt.de/anmeldung/")[Boulderwelt], #link("https://boulderado.app/registration/5474727a9c2efe5971f616ab56cbdb7bc5679e8b")[Steil]
+
+// TODO HIGH PRIO: Was machen wir mit Minderjährigen?
+
+=== Abendessen
+
+Zwischen Bouldern und O-Phest sollte man abendessen.
+Wir sollten Erstis Empfehlungen geben, wo man in Campusnähe schnell etwas bekommt.
+(Kabibi, Wokman, Dominos, Kebab etc.)
 
 === O-Phest
 
-ab XX Uhr, AKK.
+// FSTODO (unten wsl. +1h)
+ab X Uhr, AKK.
 
-Wir empfehlen, ab YY Uhr zu kommen.
-// Weil es häufig erst später losgeht
+Wir empfehlen, ab YY Uhr zu kommen, weil es erfahrungsgemäß erst etwas später wirklich losgeht.
 
-TODO: Bändchen Regelung
+// FSTODO: Bändchen Regelung (wenn zu spontan, dann in den Discord)
 
 === O-Philm
 
@@ -334,17 +364,17 @@ Parallel zum O-Phest.
 
 Für heute sind #link(label("getränke"))[Getränke] bei der Fachschaft bestellt und können abgeholt werden.
 
-=== Frühstück
+=== Frühstück <frühstück-mi>
 
 ab 9 Uhr in den #link(label("rooms"))[Räumen im Mathebau].
 
 Belag bringen die Erstis mit.
-Tutoren bringen (Karten)-spiele mit.
+Tutoren bringen (Karten-)Spiele mit.
 
+// AUFGABEn
 X besorgt 2 Brötchen pro Person.
-// TODO: wieder okay?
-Dominik und Leo bringen jeweils ihr Waffeleisen mit.
-Jonas bringt Waffelteig mit.
+Linus und X bringen jeweils ihr Waffeleisen mit.
+X und X bringen Waffelteig mit.
 Jonas und X machen Waffeln.
 
 === O-Rallye
@@ -358,7 +388,7 @@ Vor Start:
 - Lehramt-Ertis werden erneut auf die gesonderten heutigen #link(label("lehramt"))[Veranstaltungen] und die Anmeldung dafür hingewiesen.
 - Master-Erstis werden auf die #link(label("institut"))[Institutsvorstellung] hingewiesen.
 
-Die Fragebögen für die O-Rallye werden von X in der Fachschaft
+Die Fragebögen für die O-Rallye werden in der Fachschaft
 abgeholt und um 11 Uhr an die Erstis (zur Selbstorganisation) übergeben.
 Es sollten immer Tutoren für Rückfragen o.ä. im Seminarraum sein.
 
@@ -444,10 +474,9 @@ Wie Dienstag.
 Wir bieten einige Aktivitäten an und treffen uns dafür um 14:30 Uhr vor der Mensa.
 Folgende Personen kümmern sich um die Durchführung:
 
-#table(
-  columns: 2,
-  stroke: none,
-
+#dict(
+  // AUFGABEn
+  // TODO: mehr/weniger/andere?
   [*Aktivität*], [*Zuständige*],
   [SCC], [Jens],
   [Naturkundemuseum], [TODO],
@@ -455,7 +484,6 @@ Folgende Personen kümmern sich um die Durchführung:
   [Bouldern], [TODO nochmal?],
   [Minigolf], [TODO],
   [Zoo], [TODO (Lea?)]
-  // TODO: mehr/andere?
 )
 
 Parallel läuft der Einkauf und Aufbau für den Cocktailabend.
@@ -466,6 +494,7 @@ Einkaufsteam: Alina, Linus, (Flo?)
 
 Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter gliehen.
 
+// FSTODO
 + Transporter holen (TODO: how to)
 + Altbestände und Equipment von Flo holen *und zum HaDiKo bringen*
 + Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?, Im Zweifel kriegen wir über die FS eine)
@@ -475,7 +504,6 @@ Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter glieh
 
 Barbetrieb ab 20 Uhr.
 
-Teilnahme nur nach Anmeldung bis XY.
 Es wird zeitlich passend der #link("https://discord.com/channels/739522765677133894/963505261388107846/1030438323086438440")[Anfahrtsplan] verschickt.
 
 Flo? hat die K1-Bar gemietet.
@@ -483,7 +511,8 @@ Der Aufbau beginnt um 15 Uhr und wird von Max organisiert.
 Alle Helfer der Barschichten sollen ab 19 Uhr der Bareinführung lauschen.
 #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfer Schichtenplan].
 
-Am Eingang werden Ausweise kontrolliert und Stempel vergeben.
+Teilnahme nur nach Anmeldung bis zum Vorabend.
+Am Eingang wird das Alter (von unbekannten) abgefragt und Stempel vergeben.
 An der Bar werden (mindestens stichprobenartig) Stempel kontrolliert.
 
 
@@ -501,5 +530,6 @@ Alle Mädels gerne anwesend.
 
 Alle Mathes gerne anwesend, mathelastige Informatiker auch.
 
+// AUFGABE
 Abbauteam: Alina, TODO
 // sollten da nicht auch andere Gruppen helfen?
