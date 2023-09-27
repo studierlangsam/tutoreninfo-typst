@@ -32,7 +32,7 @@
 
   hlinex(),
   [Lokale],
-    [TODO, alina café, Vegiez, (Ox Ost)], // TODO
+    [TODO, alina café, Vegiez, (Ox Ost)], // TODO: Frühstück
     [alina café, Café Palaver, Vietaroma, (Ox Ost)]
 
 )
@@ -159,12 +159,14 @@ Es wird unser Film gezeigt und Jonas erzählt was zu uns und unseren Wochenplan.
 
 === Erstisammlung
 
+// FSTODO
 Nach der Vorstellung warten wir als Gruppe WO.
 Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
-// TODO
-Wenn abzusehen ist, dass wir insgesamt weniger als X (40?) Erstis haben, dann legen wir die Kleingruppen zusammen.
 // AUFGABE
 X leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
+
+Wenn abzusehen ist, dass wir insgesamt weniger als ca. 35 Erstis haben, dann legen wir die Kleingruppen von Anfang an zusammen.
+Späteres Zusammenlegen vorbehalten.
 
 Die Untergruppen geben, sobald sie ankommen, allen Erstis Namensschilder (Crepeband + Edding), begrüßen sie und *binden sie in Gespräche ein* (bis zu den Kennenlernspielen).
 Dabei kann schoneinmal darauf hingewiesen werden, dass sie alle auf den #link(label("discord"))[Discord] sollen.
@@ -257,7 +259,7 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
   + Anfangsbuchstaben
   + Größe
   + Oberteilfarbe
-  + Alter
+  + Alter #footnote[Checken, ob Minderjährige dabei sind. Diese darauf ansprechen, dass sie für's Bouldern einen Wisch von ihren Eltern brauchen.]
   + Schuhgröße
   + Lieblingszahl
   + Entfernung zur Uni
@@ -274,6 +276,10 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
 === Campustour / Schnitzeljagd
 
 // TODO HIGH PRIO: neues Konzept (Anh ist dran)
+
+=== #link(label("cocktailabend"))[Cocktailabend]-Interesse abfragen
+
+Per Nachricht und Reaktionen im Discord.
 
 === O-Grillen
 
@@ -305,8 +311,13 @@ Jetzt ist auch ein guter Zeitpunkt um mit Leuten noch ihre KIT-Karte abzuholen.
 
 Wir gehen gemeinsam mit unseren Erstis in der Mensa essen.
 Einige müssen vermutlich noch ihre Karte abholen oder aufladen.
-// TODO: wie meinen wir das? Das die ganze Zeit einer draußen steht? Ist doch blöd.
-Daran denken, dazukommende vor der Mensa aufzugabeln.
+// TODO: Standorte verifizieren (v.a. koeri Eingang und Durchgang)
+Dabei helfen wir ihnen und verteilen uns dafür ggf. auf die verschiedenen Aufwerter:
+Foyer, \[kœri\]werk Eingang, \[kœri\]werk Ausgang#footnote[nur EC]<ec>, Durchgang Cafeteria, Cafeteria@ec.
+
+Geheimtipps:
+Extensive Autoload-Werbung ist gestattet.
+In der Chemie-Cafeteria und in der Hauptbib kann man die Karte auch aufladen.
 
 === FBI <fbi>
 
@@ -323,7 +334,7 @@ Termine:
 Für #link(label("lehramt"))[Lehramt] gibt es gesondert am Mittwoch Programm.
 Für Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institutsvorstellung].
 
-=== Bouldern
+=== Bouldern <bouldern>
 
 16 Uhr / nach FBI, Forum
 
@@ -333,16 +344,20 @@ Alle anderen $->$ Boulderwelt
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
 Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
 
-Um Zeit zu sparen, können die Erstis sich schoneinmal online registrieren:
-#link("https://www.boulderwelt.de/anmeldung/")[Boulderwelt], #link("https://boulderado.app/registration/5474727a9c2efe5971f616ab56cbdb7bc5679e8b")[Steil]
+// TODO Linus: Reicht das dem Steil auch?
+Bei den Boulderhallen sollten wir uns einmal per Mail ankündigen, damit sie mehrere Kassen besetzen können für einen schnelleren Ablauf.
 
-// TODO HIGH PRIO: Was machen wir mit Minderjährigen?
+Um Zeit zu sparen, können die Erstis sich schoneinmal online registrieren:
+#link("https://www.boulderwelt.de/anmeldung/")[Boulderwelt], #link("https://boulderado.app/registration/5474727a9c2efe5971f616ab56cbdb7bc5679e8b")[Steil].
+// TODO Linus wenn gefixt: Link für Boulderwelt
+Minderjähre benötigen einen Wisch von Ihren Eltern. Boulderwelt: unter obigem Link die letze Option und "Einverständniserklärung anzeigen" auswählen. #link("https://boulderhalle-steil.com/wp-content/uploads/2022/08/EVE-ab-14.pdf")[Steil].
 
 === Abendessen
 
 Zwischen Bouldern und O-Phest sollte man abendessen.
 Wir sollten Erstis Empfehlungen geben, wo man in Campusnähe schnell etwas bekommt.
 (Kabibi, Wokman, Dominos, Kebab etc.)
+Auch Steil und Boulderwelt bieten jeweils eine überschaubare Karte an Pizza, Flammkuchen, belegter Backware und Getränken an.
 
 === O-Phest
 
@@ -418,9 +433,6 @@ Wir starten vermutlich in 3-6 Gruppen und werden je nach Abfall immer weiter zus
 Das Wechseln und der weitere Verlauf werden engmaschig per Discord koordiniert.
 Wir versuchen, im Shotz zu enden (hat bis 2 Uhr auf).
 
-// TODO: Alternativprogramm abgeschafft? Wurde letztes Jahr gar nicht genutzt
-// Als Alternativprogramm finden Spiele im Z10 statt.
-
 
 
 == Donnerstag
@@ -453,9 +465,11 @@ Alternativ kann man das selbst entscheiden lassen über eine Nachricht im Discor
 
 ab 20 Uhr, #link(label("rooms"))[Räume im Mathebau].
 
-Montag wurde bereits Knabberzeug #link(label("einkauf"))[besorgt].
+Montag wurde bereits Knabberzeug #link(label("einkauf"))[besorgt]. \
 Tutoren und Erstis bringen Spiele mit. \
 Wenn Interesse besteht, dann kann man ein _Let's play Campussystem_ anbieten.
+
+Wichtig: *Cocktailabend Anmeldungen aufnehmen!*
 
 == Freitag
 
@@ -501,7 +515,7 @@ Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter glieh
 + Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?, Im Zweifel kriegen wir über die FS eine)
 + Transporter zurückbringen (TODO: how to)
 
-=== Cocktailabend
+=== Cocktailabend <cocktailabend>
 
 Barbetrieb ab 20 Uhr.
 
