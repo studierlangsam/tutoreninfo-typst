@@ -125,7 +125,7 @@ Unvollständige Zusammenfassung:
 
 == Übersicht
 
-// TODO: Link an neue Webseite anpassen
+// TODO wenn Website fertig: Link an neue Webseite anpassen
 Auf der #link("https://studierlangsam.de/wochenplan")[Website] oder #link(label("wochenplan"))[oben].
 
 == Montag
@@ -191,11 +191,12 @@ Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem 
 === Zensus und Steuereintreibung
 
 Kurz bevor die Pizza kommt, sammelt Linus von allen Erstis und Tutierenden Geld ein.
-#dict( // TODO Steuer
+#dict( // TODO wenn Prognosen da: Steuer
   [X€], [mit Pizza],
   [X€], [ohne Pizza]
 )
 Die sind für die Pizza, die Getränke beim Kennenlernen, am Mittwoch und beim Spieleabend, die Brötchen am Mittwoch sowie Fixkosten gedacht.
+Wer bezahlt hat, wird in Airtable festgehalten. // TODO: Airtable verlinken
 // TODO: Namen, Untergruppe und E-Mail erfassen? Alternativ könnte man das im Discord machen. Wann Cocktailabend Anmeldung? Reicht eigentlich bis Mi/Do oder? 
 
 === Erstiinformierung
