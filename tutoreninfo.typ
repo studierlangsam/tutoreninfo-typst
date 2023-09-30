@@ -374,11 +374,12 @@ Wir empfehlen, ab YY Uhr zu kommen, weil es erfahrungsgemäß erst etwas später
 
 // FSTODO: Bändchen Regelung (wenn zu spontan, dann in den Discord)
 
-=== O-Philm
+=== O-Philm I
 
 20 Uhr, AFK im Hertz-Hörsaal.
 
 Parallel zum O-Phest.
+Gemeinsam mit der Fachschaft Physik (die mit den Geiern).
 
 
 
@@ -511,6 +512,7 @@ Parallel läuft der Einkauf und Aufbau für den Cocktailabend.
 
 === Einkauf
 
+// AUFGABE
 Einkaufsteam: Alina, Linus, (Flo?)
 
 Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter gliehen.
@@ -518,6 +520,7 @@ Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter glieh
 // FSTODO
 + Transporter holen (TODO: how to)
 + Altbestände und Equipment von Flo holen *und zum HaDiKo bringen*
+// TODO
 + Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?, Im Zweifel kriegen wir über die FS eine)
 + Transporter zurückbringen (TODO: how to)
 
@@ -533,7 +536,7 @@ Alle Helfer der Barschichten sollen ab 19 Uhr der Bareinführung lauschen.
 #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfer Schichtenplan].
 
 Teilnahme nur nach Anmeldung bis zum Vorabend.
-Am Eingang wird das Alter (von unbekannten) abgefragt und Stempel vergeben.
+Am Eingang wird das Alter (von Unbekannten) abgefragt und Stempel vergeben.
 An der Bar werden (mindestens stichprobenartig) Stempel kontrolliert.
 
 
@@ -554,3 +557,10 @@ Alle Mathes gerne anwesend, mathelastige Informatiker auch.
 // AUFGABE
 Abbauteam: Alina, TODO
 // sollten da nicht auch andere Gruppen helfen?
+
+=== O-Philm II
+
+// FSTODO
+Genauere Infos TBA.
+
+Gezeigt wird der Film WarGames.
