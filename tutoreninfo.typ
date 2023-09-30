@@ -349,8 +349,14 @@ Bei den Boulderhallen sollten wir uns einmal per Mail ankündigen, damit sie meh
 
 Um Zeit zu sparen, können die Erstis sich schoneinmal online registrieren:
 #link("https://www.boulderwelt.de/anmeldung/")[Boulderwelt], #link("https://boulderado.app/registration/5474727a9c2efe5971f616ab56cbdb7bc5679e8b")[Steil].
-// TODO Linus wenn gefixt: Link für Boulderwelt
-Minderjähre benötigen einen Wisch von Ihren Eltern. Boulderwelt: unter obigem Link die letze Option und "Einverständniserklärung anzeigen" auswählen. #link("https://boulderhalle-steil.com/wp-content/uploads/2022/08/EVE-ab-14.pdf")[Steil].
+Minderjähre benötigen einen Wisch von Ihren Eltern. \
+Boulderwelt: 
+#link("https://www.boulderwelt-karlsruhe.de/wp-content/uploads/2020/10/2022-08-29-Benutzerordnung-Karlsruhe.pdf")[Regel] (§A 1.2 Abs. 2)
+#footnote[Stattdessen auch mit volljähriger Begleitung möglich. Im Zweifel Linus fragen!], 
+#link("https://www.boulderwelt-karlsruhe.de/wp-content/uploads/2019/03/Einverstaendniserklaerung-fuer-Minderjaehrige-ueber-14-Jahre.pdf")[Wisch] \
+Steil:
+#link("https://boulderhalle-steil.com/allgemeine-geschaeftsbedingungen/#:~:text=Minderj%C3%A4hrige%20ab%2014%20Jahren")[Regel],
+#link("https://boulderhalle-steil.com/wp-content/uploads/2022/08/EVE-ab-14.pdf")[Wisch].
 
 === Abendessen
 
