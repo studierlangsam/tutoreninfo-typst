@@ -64,9 +64,8 @@ Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der Fachschaf
 
 Der Hauptkommunikationskanal für die O-Phase
 soll der Discord sein. \
-// TODO: Discord APK
-Discord kann auf den #link("https://discord.com")[offiziellen Kanälen] oder hier (TODO: self-hosted APK) heruntergeladen werden. Letzteres erfordert keine Altersbestätigung.
-Der Einladungslink ist: #link("https://discord.gg/bVsUY5D4mM")[discord.gg/bVsUY5D4mM]
+Discord kann auf den #link("https://discord.com")[offiziellen Kanälen] oder über den #link("https://aurorastore.org")[Aurora Store] heruntergeladen werden. Letzteres erfordert keine Altersbestätigung.
+Der Einladungslink ist #link("https://discord.gg/bVsUY5D4mM")[discord.gg/bVsUY5D4mM].
 Folgender QR-Code führt zum Discord und ist auch auf den Visitenkarten zu finden:
 
 #image("assets/qr-code.png")
