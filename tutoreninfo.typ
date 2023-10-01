@@ -32,16 +32,16 @@
 
   hlinex(),
   [Lokale],
-    [TODO, alina café, Vegiez, (Ox Ost)], // TODO: Frühstück
+    [TODO, alina café, Vegiez, (Ox Ost)], // TODO wenn Coffee Box bestätigt
     [alina café, Café Palaver, Vietaroma, (Ox Ost)]
 
 )
 
-// FSTODO: je nachdem wann wir welche Räumen bekommen -> an passende Stelle in Woche unten schreiben
+// FSTODO wenn Räume: je nachdem wann wir welche Räumen bekommen -> an passende Stelle in Woche unten schreiben
 Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der Fachschaft zu hinterlegen ist.
 
 = Wochenplan <wochenplan>
-// TODO: aktualisieren, Schriften fixen
+// TODO wenn final: aktualisieren, Schriften fixen
 #text(red)[Nicht aktuell!]
 #image("assets/Wochenplan.svg")
 
@@ -64,49 +64,57 @@ Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der Fachschaf
 
 Der Hauptkommunikationskanal für die O-Phase
 soll der Discord sein. \
+// TODO: Discord APK
 Discord kann auf den #link("https://discord.com")[offiziellen Kanälen] oder hier (TODO: self-hosted APK) heruntergeladen werden. Letzteres erfordert keine Altersbestätigung.
 Der Einladungslink ist: #link("https://discord.gg/bVsUY5D4mM")[discord.gg/bVsUY5D4mM]
 Folgender QR-Code führt zum Discord und ist auch auf den Visitenkarten zu finden:
 
 #image("assets/qr-code.png")
 
+== Finanzen
+
+Wenn etwas bezahlt werden muss, strecken Tutoren das vor und erhalten es dann aus der Kasse zurück.
+Wenn ihr etwas für Studier Langsam bezahlt, dann tragt es bitte in #link("https://airtable.com/appRVKuyH5AG2YXoN/tblRoTygvoQURmbqc/viwoRpgV2v5lfmnDL")[diese Tabelle] ein.
+
 == Getränke <getränke>
 
-Linus hat Getränke bestellt und die Bezahlung vorgestreckt.
+Wir haben bei der Fachschaft Getränke auf Kommision und Rechnung zur FSM bestellt.
 
 === Abholen
 + Überlegen, wie viel wovon geholt werden soll. #link("https://docs.google.com/spreadsheets/d/1f_7Lspvlk9joL6o8ejnzErGTq_sEQOfAlsCsn24Jy6A/edit?usp=sharing")[Hier] ist die aufgeschlüsselte Bestellung.
 + In die Mathe-Fachschaft gehen und sagen, was man will.
-  Bezahlt werden muss hier nicht mehr.
-// FSTODO Linus nach Bestellung: gucken, ob das so passt (ggf. mit Jakob sprechen)
+  Bezahlt werden muss hier nicht.
 + Quittung über die Getränke vom FSler ausfüllen lassen, prüfen, unterschreiben. Wir bekommen den Durschlag der Quittung.
 + Quittung bei Gelegenheit Linus geben oder mindestens über die Abholung informieren.
 
 === Pfand
 + Flaschen und Kästen aufheben, da ist Pfand drauf. Ggf. auch den Erstis sagen.
 + Vollständige, leere Kästen können bei der Mathe-Faschaft zurückgegeben werden.
+  Das Pfand bekommen wir nicht direkt ausgezahlt, sondern es wird verrechnet.
 + Quittung über das Pfand vom FSler ausfüllen lassen, prüfen, unterschreiben. Wir bekommen das Original der Quittung.
 + Quittung bei Gelegenheit Linus geben oder mindestens über die Rückgabe informieren.
 
 === Zu viel / zu wenig:
 Die Bestellung ist auf Kommision, sodass wir nicht Benötigtes vollständig erstattet bekommen.
-Sollten wir merken, dass es knapp wird, können wir auch noch "Nachbestellen" bzw. Reserven der Fachschaft nutzen, die dann natürlich auch gezahlt werden müssen.
+Sollten wir merken, dass es knapp wird, können wir eventuell auch noch "Nachbestellen" bzw. Reserven der Fachschaft nutzen, die dann natürlich auch gezahlt werden müssen.
 Das am Besten über Linus machen.
 
 == Infos für Erstis
 
 Fragen zum Aufbau des Studiums und zu einigen prüfungsrelevanten Regelungen werden in der #link("https://www.fsmi.uni-karlsruhe.de/Studium/Studienanfaenger/")[Erstiinfo] beantwortet.
+Dort findet sich auch ein Stundenplan für Bachelor-Erstis.
 
 Generell kann die Fachschaft (also auch wir) einem bei vielem Helfen.
 
-Man findet in sehr vielen (v.a. inhaltlichen) Belangen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discrod].
+Man findet in sehr vielen (v.a. inhaltlichen) Fragen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discrod].
 
 Man kann als Info Ana und LA für Mathes hören.
 Die beiden LAs werden dieses Jahr sehr wahrscheinlich getrennt ablaufen.
-Dieses Jahr sind die Mathe-Vorlesungen als Info eher mit Vorsicht zu genießen. (Hundertmark vs Herzog, Hartnick vs Kühnlein/Dahmen)
+Dieses Jahr sind die Mathe-Vorlesungen als Info eher mit Vorsicht zu genießen.
+(Hundertmark vs Herzog, Hartnick vs Kühnlein/Dahmen)
 
 Niemand wird in ein Doppelstudium gebaitet.
-Dazu gehört, dass nicht durch eine Häufung von Doppelstudenten in unseren Reihen der Eindruck entsteht, das würde fast jeder machen.
+Dazu gehört, dass nicht durch eine Häufung von Doppelstudierenden in unseren Reihen der Eindruck entsteht, das würde fast jeder machen.
 
 === KIT-WLAN
 
@@ -162,8 +170,7 @@ Es wird unser Film gezeigt und Jonas erzählt was zu uns und unseren Wochenplan.
 // FSTODO
 Nach der Vorstellung warten wir als Gruppe WO.
 Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
-// AUFGABE
-X leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
+Jemand leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
 
 Wenn abzusehen ist, dass wir insgesamt weniger als ca. 35 Erstis haben, dann legen wir die Kleingruppen von Anfang an zusammen.
 Späteres Zusammenlegen vorbehalten.
@@ -183,7 +190,7 @@ gemeldet werden, sodass sie berechnen kann wie viel Pizza wir wo bestellen.
 Diese Pizzen werden dann zum Haus gegenüber vom Mathebau bestellt und dann von mind. 2 Leuten abgeholt und zu den Gruppen gebracht.
 
 Im Besten Fall ist die Pizza so früh da, dass wir vor den #link(label("kennenlernen"))[Kennenlernspielen] mit Essen fertig sind und damit das Essen den Orgakram überdeckt.
-Ansonsten ist das Ecken und Sortieren auch mit Pizza essen kompatibel und im Zweifel macht man einfach eine Pause von den Kennenlernspielen.
+Ansonsten ist das Ecken und Sortieren auch mit Pizza Essen kompatibel und im Zweifel macht man einfach eine Pause von den Kennenlernspielen.
 
 === Zum Schloss laufen
 
@@ -192,14 +199,15 @@ Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem 
 
 === Zensus und Steuereintreibung
 
-Kurz bevor die Pizza kommt, sammelt Linus von allen Erstis und Tutierenden Geld ein.
-#dict( // TODO wenn Prognosen da: Steuer
-  [X€], [mit Pizza],
-  [X€], [ohne Pizza]
+Linus sammelt getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
+#dict(
+  [10€], [mit Pizza],
+  [4€], [ohne Pizza]
 )
 Die sind für die Pizza, die Getränke beim Kennenlernen, am Mittwoch und beim Spieleabend, die Brötchen am Mittwoch sowie Fixkosten gedacht.
-Wer bezahlt hat, wird in Airtable festgehalten. // TODO: Airtable verlinken
-// TODO: Namen, Untergruppe und E-Mail erfassen? Alternativ könnte man das im Discord machen. Wann Cocktailabend Anmeldung? Reicht eigentlich bis Mi/Do oder? 
+Wer bezahlt hat, wird in #link("https://airtable.com/appRVKuyH5AG2YXoN/tbl7xHHd6uddR3jwf/viw0AYji53gCDqGWK")[Airtable] festgehalten.
+Kartenzahlung ist auch möglich.
+// TODO: E-Mail hier erfassen?
 
 === Erstiinformierung
 
@@ -311,9 +319,9 @@ Jetzt ist auch ein guter Zeitpunkt um mit Leuten noch ihre KIT-Karte abzuholen.
 
 Wir gehen gemeinsam mit unseren Erstis in der Mensa essen.
 Einige müssen vermutlich noch ihre Karte abholen oder aufladen.
-// TODO: Standorte verifizieren (v.a. koeri Eingang und Durchgang)
+// TODO: Cafeteria checken
 Dabei helfen wir ihnen und verteilen uns dafür ggf. auf die verschiedenen Aufwerter:
-Foyer, \[kœri\]werk Eingang, \[kœri\]werk Ausgang#footnote[nur EC]<ec>, Durchgang Cafeteria, Cafeteria@ec.
+Foyer, \[kœri\]werk Eingang, \[kœri\]werk Ausgang#footnote[nur EC]<ec>, Durchgang Cafeteria@ec, Cafeteria@ec.
 
 Geheimtipps:
 Extensive Autoload-Werbung ist gestattet.
@@ -344,8 +352,8 @@ Alle anderen $->$ Boulderwelt
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
 Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
 
-// TODO Linus: Reicht das dem Steil auch?
 Bei den Boulderhallen sollten wir uns einmal per Mail ankündigen, damit sie mehrere Kassen besetzen können für einen schnelleren Ablauf.
+// TODO: Gruppenrabatt beim Steil?
 
 Um Zeit zu sparen, können die Erstis sich schoneinmal online registrieren:
 #link("https://www.boulderwelt.de/anmeldung/")[Boulderwelt], #link("https://boulderado.app/registration/5474727a9c2efe5971f616ab56cbdb7bc5679e8b")[Steil].
@@ -391,7 +399,7 @@ Für heute sind #link(label("getränke"))[Getränke] bei der Fachschaft bestellt
 
 ab 9 Uhr in den #link(label("rooms"))[Räumen im Mathebau].
 
-Belag bringen die Erstis mit.
+Belag bringen Erstis und Tutoren mit.
 Tutoren bringen (Karten-)Spiele mit.
 
 // AUFGABEn
@@ -513,14 +521,14 @@ Parallel läuft der Einkauf und Aufbau für den Cocktailabend.
 === Einkauf
 
 // AUFGABE
-Einkaufsteam: Alina, Linus, (Flo?)
+Einkaufsteam: Alina, Linus, TODO
 
 Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter gliehen.
 
 // FSTODO
 + Transporter holen (TODO: how to)
 + Altbestände und Equipment von Flo holen *und zum HaDiKo bringen*
-// TODO
+// TODO: Metrokarte
 + Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?, Im Zweifel kriegen wir über die FS eine)
 + Transporter zurückbringen (TODO: how to)
 
