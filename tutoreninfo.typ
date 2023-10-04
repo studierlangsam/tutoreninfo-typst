@@ -98,6 +98,19 @@ Die Bestellung ist auf Kommision, sodass wir nicht Benötigtes vollständig erst
 Sollten wir merken, dass es knapp wird, können wir eventuell auch noch "Nachbestellen" bzw. Reserven der Fachschaft nutzen, die dann natürlich auch gezahlt werden müssen.
 Das am Besten über Linus machen.
 
+== Schließfächer
+
+Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
+#dict(
+  [Lovelace], [Nummer 104],
+  [Turing], [] // TODO: Jakob fragen
+)
+
+Die Gesetze der Schlüssel:
++ Die Gruppenleitung hat den Schlüssel.
++ Wenn von 1. abgewichen wird:
+  Der Schlüssel ist längstmöglich an der Uni und die haltende Person erreichbar.
+
 == Infos für Erstis
 
 Fragen zum Aufbau des Studiums und zu einigen prüfungsrelevanten Regelungen werden in der #link("https://www.fsmi.uni-karlsruhe.de/Studium/Studienanfaenger/")[Erstiinfo] beantwortet.
@@ -196,7 +209,7 @@ Ansonsten ist das Ecken und Sortieren auch mit Pizza Essen kompatibel und im Zwe
 Jede Gruppe geht zu jeweils einem Brunnen vor dem Schloss.
 Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem Mathebau ab.
 
-=== Zensus und Steuereintreibung
+=== Zensus und Steuereintreibung <zensus>
 
 Linus sammelt getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
 #dict(
@@ -266,7 +279,7 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
   + Anfangsbuchstaben
   + Größe
   + Oberteilfarbe
-  + Alter #footnote[Checken, ob Minderjährige dabei sind. Diese darauf ansprechen, dass sie für's Bouldern einen Wisch von ihren Eltern brauchen.]
+  + Alter #footnote[Minderjährige dabei? ggf. ansprechen, dass sie für's #link(label("bouldern"))[Bouldern] einen Wisch von ihren Eltern brauchen.]
   + Schuhgröße
   + Lieblingszahl
   + Entfernung zur Uni
@@ -318,9 +331,25 @@ Jetzt ist auch ein guter Zeitpunkt um mit Leuten noch ihre KIT-Karte abzuholen.
 
 Wir gehen gemeinsam mit unseren Erstis in der Mensa essen.
 Einige müssen vermutlich noch ihre Karte abholen oder aufladen.
-// TODO: Cafeteria checken
 Dabei helfen wir ihnen und verteilen uns dafür ggf. auf die verschiedenen Aufwerter:
-Foyer, \[kœri\]werk Eingang, \[kœri\]werk Ausgang#footnote[nur EC]<ec>, Durchgang Cafeteria@ec, Cafeteria@ec.
+
+#let X = align(center)[X]
+#let o = []
+#show "koeri": [\[kœri\]]
+
+#v(-0.5em)
+#gridx(
+  columns: 3,
+  row-gutter: -0.2em,
+
+  [*Ort*], vlinex(), [*EC*], [*Bar*],
+  hlinex(),
+  [Foyer], X, X,
+  [koeriwerk Eingang], o, X,
+  [koeriwerk Ausgang], X, o,
+  [Durchgang Cafeteria], o, X,
+  [Cafeteria], X, o
+)
 
 Geheimtipps:
 Extensive Autoload-Werbung ist gestattet.
@@ -351,10 +380,12 @@ Alle anderen $->$ Boulderwelt
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
 Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
 
-Bei den Boulderhallen sollten wir uns einmal per Mail ankündigen, damit sie mehrere Kassen besetzen können für einen schnelleren Ablauf.
-// TODO: Gruppenrabatt beim Steil?
+// TODO: Boulderwelt auch ankündigen
+Beim Steil sind wir bereits angekündigt.
+Das Steil gewährt uns einen Gruppenrabatt von 10% (Eintritt dann noch 8,55€), hätte dafür aber gerne, dass wir mit möglichst wenigen Bezahlvorgängen einchecken.
+Wo möglich sammeln wir daher vorher Geld ein (selbe Methoden wir bei der #link(label("zensus"))[Steuereintreibung]) und bezahlen zusammen.
 
-Um Zeit zu sparen, können die Erstis sich schoneinmal online registrieren:
+Um Zeit zu sparen, sollten die Erstis sich schoneinmal online registrieren:
 #link("https://www.boulderwelt.de/anmeldung/")[Boulderwelt], #link("https://boulderado.app/registration/5474727a9c2efe5971f616ab56cbdb7bc5679e8b")[Steil].
 Minderjähre benötigen einen Wisch von Ihren Eltern. \
 Boulderwelt: 
@@ -383,10 +414,11 @@ Wir empfehlen, ab YY Uhr zu kommen, weil es erfahrungsgemäß erst etwas später
 
 === O-Philm I
 
-20 Uhr, AFK im Hertz-Hörsaal.
+20 Uhr, Hertz-Hörsaal.
 
 Parallel zum O-Phest.
-Gemeinsam mit der Fachschaft Physik (die mit den Geiern).
+Gemeinsam mit der Fachschaft Physik (die mit den Geiern). \
+Gezeigt wird: Everything Everywhere All at Once.
 
 
 
@@ -403,9 +435,15 @@ Tutoren bringen (Karten-)Spiele mit.
 
 // AUFGABEn
 X besorgt 2 Brötchen pro Person.
-Linus und X bringen jeweils ihr Waffeleisen mit.
 X und X bringen Waffelteig mit.
 Jonas und X machen Waffeln.
+
+Wir leihen 2 Waffeleisen bei der Fachschaft.
+- sind reserviert (bei Julian Roßkothen)
+- können gegen jeweils 10~€ Kaution in FSM abgeholt werden
+- Wichtig: nur Holzbesteck verwenden!
+- vor Rückgabe sauber machen
+- Rückgabe bis 14 Uhr in der FSM; 20~€ zurückbekommen nicht vergessen
 
 === O-Rallye
 
@@ -568,6 +606,7 @@ Abbauteam: Alina, TODO
 === O-Philm II
 
 // FSTODO
-Genauere Infos TBA.
+TODO Uhr, Hertz-Hörsaal.
 
-Gezeigt wird der Film WarGames.
+// FSTODO: wirklich?
+Gezeigt wird: WarGames.
