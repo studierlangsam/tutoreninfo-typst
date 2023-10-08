@@ -13,6 +13,8 @@
 
 = Räume und Leute <rooms>
 
+#show "Cian": [Cián]
+
 #gridx(
   columns: 3,
 
@@ -26,19 +28,19 @@
     Anh, Florian, Jens, Jonas, Karina, Leon, Yannick],
   
   hlinex(),
-  [Räume], // FSTODO
-    [],
-    [],
+  [Räume],
+    [-1.015 (=Lagerraum, 16 Plätze)],
+    [-1.014 (36 Plätze)],
 
   hlinex(),
   [Lokale],
-    [TODO, alina café, Vegiez, (Ox Ost)], // TODO wenn Coffee Box bestätigt
+    [Coffee Box, alina café, Vegiez, (Ox Ost)],
     [alina café, Café Palaver, Vietaroma, (Ox Ost)]
-
 )
 
-// FSTODO wenn Räume: je nachdem wann wir welche Räumen bekommen -> an passende Stelle in Woche unten schreiben
-Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der Fachschaft zu hinterlegen ist.
+Den Raum -1.015 haben wir die ganze Woche (Mo-Fr) und können ihn damit als Lagerraum verwenden.
+
+Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der FSM zu hinterlegen ist.
 
 = Wochenplan <wochenplan>
 // TODO wenn final: aktualisieren, Schriften fixen
@@ -101,10 +103,19 @@ Das am Besten über Linus machen.
 == Schließfächer
 
 Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
-#dict(
-  [Lovelace], [Nummer 104],
-  [Turing], [] // TODO: Jakob fragen
-)
+#table(
+  columns: 3,
+  stroke: none,
+
+  [*Gruppe*], [*Nr*], [*Inhalt*],
+  [Lovelace], [104], [
+
+  ],
+  [Turing], [
+    // TODO Jakob: antworten
+  ], [
+  ]
+) 
 
 Die Gesetze der Schlüssel:
 + Die Gruppenleitung hat den Schlüssel.
@@ -145,20 +156,18 @@ Unvollständige Zusammenfassung:
 
 == Übersicht
 
-// TODO wenn Website fertig: Link an neue Webseite anpassen
-Auf der #link("https://studierlangsam.de/wochenplan")[Website] oder #link(label("wochenplan"))[oben].
+Auf der #link("https://studierlangsam.de/#Wochenplan")[Webseite] oder #link(label("wochenplan"))[oben].
 
 == Montag
 
 === Einkauf <einkauf>
 
-// TODO: Einkauf
-Vielleicht schon in der Vorwoche erledigen?
-Lagern wo? Mathebauraum?
-Wer? (Piotr?)
+// AUFGABE
+// auch in Vorwoche möglich
+X geht einkaufen und bringt das Zeug zum Treffpunkt für die #link(label("erstisammlung"))[Erstisammlung].
+Stark überschüssiges kann im #link(label("rooms"))[Lagerraum] im Mathebau gelagert werden.
 
 Einkaufsliste:
-- Crepeband + Edding für Namensshilder
 - Kekse 🍪
 - Andere Snacks
 
@@ -177,12 +186,14 @@ Gegen 10:00 Uhr fängt die Gruppenvorstellung an.
 Wir sind als X. bzw. X. letzte Gruppe *nach X* dran.
 Es wird unser Film gezeigt und Jonas erzählt was zu uns und unseren Wochenplan.
 
-=== Erstisammlung
+=== Erstisammlung <erstisammlung>
 
 // FSTODO
 Nach der Vorstellung warten wir als Gruppe WO.
 Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
 Jemand leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
+
+// TODO: wo ist das Schild(i)?
 
 Wenn abzusehen ist, dass wir insgesamt weniger als ca. 35 Erstis haben, dann legen wir die Kleingruppen von Anfang an zusammen.
 Späteres Zusammenlegen vorbehalten.
@@ -217,9 +228,8 @@ Linus sammelt getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
   [4€], [ohne Pizza]
 )
 Die sind für die Pizza, die Getränke beim Kennenlernen, am Mittwoch und beim Spieleabend, die Brötchen am Mittwoch sowie Fixkosten gedacht.
-Wer bezahlt hat, wird in #link("https://airtable.com/appRVKuyH5AG2YXoN/tbl7xHHd6uddR3jwf/viw0AYji53gCDqGWK")[Airtable] festgehalten.
+Wer bezahlt hat, wird mittels #link("https://airtable.com/appRVKuyH5AG2YXoN/shrfPDBX8HLD6fUfN")[Formular] in #link("https://airtable.com/appRVKuyH5AG2YXoN/tbl7xHHd6uddR3jwf/viw0AYji53gCDqGWK")[Airtable] festgehalten.
 Kartenzahlung ist auch möglich.
-// TODO: E-Mail hier erfassen?
 
 === Erstiinformierung
 
@@ -295,7 +305,8 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
 
 === Campustour / Schnitzeljagd
 
-// TODO HIGH PRIO: neues Konzept (Anh ist dran)
+// TODO wenn fertig: Infos auch hier hin packen.
+Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618")[Discord Channel]
 
 === #link(label("cocktailabend"))[Cocktailabend]-Interesse abfragen
 
@@ -304,6 +315,14 @@ Per Nachricht und Reaktionen im Discord.
 === O-Grillen
 
 ab 18 Uhr, Infobau.
+
+=== Orgatreffen
+
+// FSTODO
+X Uhr, Xbau.
+
+Orgas von allen Gruppen treffen sich.
+Mindestens Linus geht hin.
 
 
 
@@ -323,7 +342,11 @@ Linda bringt eine Liste mit, in die Leute eintragen können, was sie #link(label
 Wikinger Schach, Spikeball, Frusby, Werwolf und weiteres im Park spielen.
 Tutoren mit Fahrrädern sorgen dafür, dass darauf nicht gewartet werden muss.
 
-Jetzt ist auch ein guter Zeitpunkt um mit Leuten noch ihre KIT-Karte abzuholen.
+Für Regenwetter haben wir die unsere #link(label("rooms"))[Räume] im Mathebau von 10 bis 14 Uhr zur Verfügung.
+Die Räume müssen gegen eine Kaution von jeweils 50~€ bei der FSM abgeholt werden.
+Raum -1.014 muss bis 14~Uhr geräumt und zurückgegeben sein.
+
+Jetzt ist auch ein guter Zeitpunkt, um mit Leuten noch ihre KIT-Karte abzuholen.
 
 === Mensa
 
@@ -380,7 +403,7 @@ Alle anderen $->$ Boulderwelt
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
 Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
 
-// TODO: Boulderwelt auch ankündigen
+// TODO: Boulderwelt auch ankündigen (Linus hat angeschrieben, Antwort steht aus)
 Beim Steil sind wir bereits angekündigt.
 Das Steil gewährt uns einen Gruppenrabatt von 10% (Eintritt dann noch 8,55€), hätte dafür aber gerne, dass wir mit möglichst wenigen Bezahlvorgängen einchecken.
 Wo möglich sammeln wir daher vorher Geld ein (selbe Methoden wir bei der #link(label("zensus"))[Steuereintreibung]) und bezahlen zusammen.
@@ -425,6 +448,8 @@ Gezeigt wird: Everything Everywhere All at Once.
 == Mittwoch
 
 Für heute sind #link(label("getränke"))[Getränke] bei der Fachschaft bestellt und können abgeholt werden.
+Ab heute und morgen haben wir unsere #link(label("rooms"))[Räume] im Mathebau.
+Die Räume müssen gegen eine Kaution von jeweils 50~€ bei der FSM abgeholt werden.
 
 === Frühstück <frühstück-mi>
 
@@ -433,13 +458,13 @@ ab 9 Uhr in den #link(label("rooms"))[Räumen im Mathebau].
 Belag bringen Erstis und Tutoren mit.
 Tutoren bringen (Karten-)Spiele mit.
 
-// AUFGABEn
-X besorgt 2 Brötchen pro Person.
-X und X bringen Waffelteig mit.
-Jonas und X machen Waffeln.
+Florian und Jan-Arne besorgt 2 Brötchen pro Person.
+// AUFGABE
+Linda und X bringen Waffelteig mit.
+Tamira und Cian machen Waffeln.
 
 Wir leihen 2 Waffeleisen bei der Fachschaft.
-- sind reserviert (bei Julian Roßkothen)
+- sind #link("https://wiki.fsmi.org/wiki/Waffeleisen")[reserviert] (bei Julian Roßkothen)
 - können gegen jeweils 10~€ Kaution in FSM abgeholt werden
 - Wichtig: nur Holzbesteck verwenden!
 - vor Rückgabe sauber machen
@@ -521,7 +546,9 @@ Montag wurde bereits Knabberzeug #link(label("einkauf"))[besorgt]. \
 Tutoren und Erstis bringen Spiele mit. \
 Wenn Interesse besteht, dann kann man ein _Let's play Campussystem_ anbieten.
 
-Wichtig: *Cocktailabend Anmeldungen aufnehmen!*
+#text(red)[Wichtig]:
++ Cocktailabend Anmeldungen aufnehmen!
++ Raum -1.014 muss am Ende aufgeräumt und bei der FSM zurückgegeben werden. Kaution zurückbekommen nicht vergessen!
 
 == Freitag
 
@@ -543,14 +570,14 @@ Folgende Personen kümmern sich um die Durchführung:
 
 #dict(
   // AUFGABEn
-  // TODO: mehr/weniger/andere?
+  // unbesetzte fallen aus
   [*Aktivität*], [*Zuständige*],
   [SCC], [Jens],
   [Naturkundemuseum], [TODO],
   [ZKM], [TODO],
-  [Bouldern], [TODO nochmal?],
   [Minigolf], [TODO],
-  [Zoo], [TODO (Lea?)]
+  [Zoo], [TODO],
+  [Bouldern], [Florian, Tamira, Leo, Jan-Arne],
 )
 
 Parallel läuft der Einkauf und Aufbau für den Cocktailabend.
@@ -606,7 +633,7 @@ Abbauteam: Alina, TODO
 === O-Philm II
 
 // FSTODO
-TODO Uhr, Hertz-Hörsaal.
+X Uhr, Hertz-Hörsaal.
 
 // FSTODO: wirklich?
 Gezeigt wird: WarGames.
