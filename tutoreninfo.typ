@@ -43,9 +43,11 @@ Den Raum -1.015 haben wir die ganze Woche (Mo-Fr) und können ihn damit als Lage
 Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der FSM zu hinterlegen ist.
 
 = Wochenplan <wochenplan>
-// TODO wenn final: aktualisieren, Schriften fixen
-#text(red)[Nicht aktuell!]
+// TODO wenn webseite fertig: ICS verlinken
+Gibt es auch als ICS.
+#scale(125%, origin: top)[
 #image("assets/Wochenplan.svg")
+]
 
 
 // start two-column layout here
