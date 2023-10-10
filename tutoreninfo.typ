@@ -40,13 +40,13 @@
 
 Den Raum -1.015 haben wir die ganze Woche (Mo-Fr) und können ihn damit als Lagerraum verwenden.
 
-Beachtet, dass für jeden Raum eine Kaution in Höhe von 50€ bei der FSM zu hinterlegen ist.
+Für beide Räume zusammen wird Anfang der O-Phase eine Kaution von 50~€ hinterlegt, die nach der O-Phase zurückerstattet wird.
 
 = Wochenplan <wochenplan>
 // TODO wenn webseite fertig: ICS verlinken
 Gibt es auch als ICS.
 #scale(125%, origin: top)[
-#image("assets/Wochenplan.svg")
+  #image("assets/Wochenplan.svg")
 ]
 
 
@@ -114,7 +114,7 @@ Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
 
   ],
   [Turing], [
-    // TODO Jakob: antworten
+    // TODO: Schlüssel von Jakob holen
   ], [
   ]
 ) 
@@ -123,6 +123,17 @@ Die Gesetze der Schlüssel:
 + Die Gruppenleitung hat den Schlüssel.
 + Wenn von 1. abgewichen wird:
   Der Schlüssel ist längstmöglich an der Uni und die haltende Person erreichbar.
+
+== Tutorentage
+
+Die Folien der Tutorentage sind #link("https://discord.com/channels/739522765677133894/956113640866586624/1161073448802590780")[hier] zu finden.
+
+== KVV-Tickets
+
+Für alle mit der O-Phase assoziierten Personen (insbesondere Tutoren und Erstis) bietet die Fachschaft Tickets für die ganze Woche für 4,20 Euro pro Person an.
+Die Tickets bekommen wir am Montag und verteilen sie im Rahmen der #link(label("zensus"))[Steuereintreibung].
+Ungenutzte Tickets können wir bis spätestens einschließlich Mittwoch kostenlos zurückgeben.
+Das heißt, dass wir auch am Dienstag noch Tickets verkaufen können.
 
 == Infos für Erstis
 
@@ -134,7 +145,7 @@ Generell kann die Fachschaft (also auch wir) einem bei vielem Helfen.
 Man findet in sehr vielen (v.a. inhaltlichen) Fragen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discrod].
 
 Man kann als Info Ana und LA für Mathes hören.
-Die beiden LAs werden dieses Jahr sehr wahrscheinlich getrennt ablaufen.
+Die beiden LAs werden dieses Jahr getrennt ablaufen.
 Dieses Jahr sind die Mathe-Vorlesungen als Info eher mit Vorsicht zu genießen.
 (Hundertmark vs Herzog, Hartnick vs Kühnlein/Dahmen)
 
@@ -164,14 +175,16 @@ Auf der #link("https://studierlangsam.de/#Wochenplan")[Webseite] oder #link(labe
 
 === Einkauf <einkauf>
 
-// AUFGABE
 // auch in Vorwoche möglich
-X geht einkaufen und bringt das Zeug zum Treffpunkt für die #link(label("erstisammlung"))[Erstisammlung].
+Anh Karina geht einkaufen und Schild holen und bringt das Zeug bis um 10 Uhr zum Audimax.
 Stark überschüssiges kann im #link(label("rooms"))[Lagerraum] im Mathebau gelagert werden.
 
 Einkaufsliste:
-- Kekse 🍪
-- Andere Snacks
+- Kekse 🍪 (auch vegane)
+- Spüli, Lappen/Schwamm
+
+Dominik holt das Schild von Peter.
+// TODO: neu ankündigen
 
 === Begrüßungsveranstaltung
 
@@ -184,23 +197,23 @@ gibt, sollten die U-Boote natürlich wieder gehen (Codewort dafür ist
 Zwischen 9:30 und 9:45 Uhr erscheinen wir als Gruppe vor den Audimax ohne dass uns die Erstis drinnen entdecken.
 Die U-Boote kommen dazu, nachdem sie ihre Rolle verlassen.
 Gegen 10:00 Uhr fängt die Gruppenvorstellung an.
-// FSTODO
+// FSTODO Vorstellung
 Wir sind als X. bzw. X. letzte Gruppe *nach X* dran.
-Es wird unser Film gezeigt und Jonas erzählt was zu uns und unseren Wochenplan.
+Es wird unser Film gezeigt und Linda und Linus erzählen was zu uns und unserem Wochenplan.
+
+#text(red)[Neu]: Am Ende treten nocheinmal alle Gruppen auf!
 
 === Erstisammlung <erstisammlung>
 
-// FSTODO
+// FSTODO Vorstellung
 Nach der Vorstellung warten wir als Gruppe WO.
-Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
 Jemand leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
-
-// TODO: wo ist das Schild(i)?
+Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
 
 Wenn abzusehen ist, dass wir insgesamt weniger als ca. 35 Erstis haben, dann legen wir die Kleingruppen von Anfang an zusammen.
 Späteres Zusammenlegen vorbehalten.
 
-Die Untergruppen geben, sobald sie ankommen, allen Erstis Namensschilder (Crepeband + Edding), begrüßen sie und *binden sie in Gespräche ein* (bis zu den Kennenlernspielen).
+Die Untergruppen geben, sobald sie ankommen, allen Erstis Namensschilder (Kreppband + Edding), begrüßen sie und *binden sie in Gespräche ein* (bis zu den Kennenlernspielen).
 Dabei kann schoneinmal darauf hingewiesen werden, dass sie alle auf den #link(label("discord"))[Discord] sollen.
 
 // TODO letzte Woche vor O-Phase:
@@ -212,10 +225,12 @@ Dabei kann schoneinmal darauf hingewiesen werden, dass sie alle auf den #link(la
 Jede Untergruppe zählt wie viele Menschen vegane, vegetarische oder Pizza mit
 Schweinefleisch essen wollen. Diese Zahlen müssen schnellstmöglich an Karina
 gemeldet werden, sodass sie berechnen kann wie viel Pizza wir wo bestellen.
-Diese Pizzen werden dann zum Haus gegenüber vom Mathebau bestellt und dann von mind. 2 Leuten abgeholt und zu den Gruppen gebracht.
+Diese Pizzen werden dann zum Haus gegenüber vom Mathebau bestellt und dann von Jonas und Anh abgeholt und zu den Gruppen gebracht.
 
 Im Besten Fall ist die Pizza so früh da, dass wir vor den #link(label("kennenlernen"))[Kennenlernspielen] mit Essen fertig sind und damit das Essen den Orgakram überdeckt.
 Ansonsten ist das Ecken und Sortieren auch mit Pizza Essen kompatibel und im Zweifel macht man einfach eine Pause von den Kennenlernspielen.
+
+Nach dem Pizza essen wird für weitere Kalkulationen die übrig gebliebene Pizza gezählt.
 
 === Zum Schloss laufen
 
@@ -226,8 +241,9 @@ Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem 
 
 Linus sammelt getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
 #dict(
-  [10€], [mit Pizza],
-  [4€], [ohne Pizza]
+  [10~€], [mit Pizza],
+  [4~€], [ohne Pizza],
+  [+4,20~€], [KVV-Ticket]
 )
 Die sind für die Pizza, die Getränke beim Kennenlernen, am Mittwoch und beim Spieleabend, die Brötchen am Mittwoch sowie Fixkosten gedacht.
 Wer bezahlt hat, wird mittels #link("https://airtable.com/appRVKuyH5AG2YXoN/shrfPDBX8HLD6fUfN")[Formular] in #link("https://airtable.com/appRVKuyH5AG2YXoN/tbl7xHHd6uddR3jwf/viw0AYji53gCDqGWK")[Airtable] festgehalten.
@@ -239,8 +255,11 @@ Folgende allgemeine Infos sollten die Erstis noch erhalten:
 - Wer noch keine Visitenkarte hat, sollte jetzt eine bekommen
 - Wer noch nicht auf dem Discord ist, sollte mit dem QR-Code auf der Visitenkarte beitreten
 - Wochenplan bis morgen
-  - Fahrrad mitbringen!
-  - Sportsachen mitbringen für's Bouldern (Straßenklamotten tun es aber tatsächlich auch)
+  - Wie viele kommen zum Frühstück? $->$ Linda 
+  - Bouldern
+    - Fahrrad mitbringen!
+    - Sportsachen mitbringen (Straßenklamotten tun es aber tatsächlich auch)
+    - Nägel schneiden
 - Bild hochladen für KIT-Card, wir können auch beim Abholen helfen
 
 === Kennenlernen <kennenlernen>
@@ -275,7 +294,7 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
     Ergebnisse werden an Linda gemeldet. Linda passt ggf. Reservierungen an.
   + Wasser (mit Kohlensäure, ohne Kohlensäure, nein)
   + KIT-Karte (hat man schon, hat man noch nicht, nicht mal Bild hochgeladen #footnote[Bitte Ändern])
-  + Wohnheim, WG, Eltern, Allein, keine Wohnung #footnote[evtl. auf https://www.asta-kit.de/notunterkuenfte hinweisen]
+  + Wohnheim, WG, Eltern, Allein, keine Wohnung #footnote[evtl. auf #link("https://www.asta-kit.de/notunterkuenfte")[Notunterkünfte] / #link("https://www.asta-kit.de/de/angebote/beratung/sozialberatung")[Sozialberatung] hinweisen]
   + Was vor Studium (Allgemeinbildendes Gym., Berufliches/Technisches Gym, Ausbildung, FSJ/BFD/FÖJ/FUJ)
   + Geschwisteranzahl ($0$, $1$, $2$, $>= 3$)
   + Welche Farbe hat Mathe? (blau, rot, grün, schwarz, gelb, andere Farbe)
@@ -308,7 +327,16 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
 === Campustour / Schnitzeljagd
 
 // TODO wenn fertig: Infos auch hier hin packen.
-Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618")[Discord Channel]
+Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618")[Discord Channel].
+
+Größtenteils statisch und öffentlich online gehostet.
+Bei Schreibrätseln sind sie in Klarsichtfolien vor Ort ausgehängt.
+
+Tutoren gehen rum und schauen nach dem Rechten.
+
+Hinweise am Anfang:
+- Alle Ziele sind auf dem Campus Süd.
+- Wenn ihr euch lost fühlt, dann ruft uns an.
 
 === #link(label("cocktailabend"))[Cocktailabend]-Interesse abfragen
 
@@ -318,12 +346,14 @@ Per Nachricht und Reaktionen im Discord.
 
 ab 18 Uhr, Infobau.
 
+Einige Tutoren treffen sich um 19 Uhr an der Säule, die den Schriftzug "InformatiKOM" verdeckt.
+Dort werden Kekse verteilt (unabhängig von der Schnitzeljagd) und es wird zum O-Grillen aufgebrochen.
+
 === Orgatreffen
 
-// FSTODO
-X Uhr, Xbau.
+18 Uhr, Infobau HS -101.
 
-Orgas von allen Gruppen treffen sich.
+Orgas von allen Gruppen treffen sich (freiwillig).
 Mindestens Linus geht hin.
 
 
@@ -337,7 +367,7 @@ Lovelace: TODO (Coffee Box) \
 Turing: alinacafe (25 Leute) \
 
 Tutoren bringen (Karten)-spiele mit.
-Linda bringt eine Liste mit, in die Leute eintragen können, was sie #link(label("frühstück-mi"))[morgen zum Frühstück] mitbringen. Für Brötchen ist gesorgt.
+Linda und Linus bringt eine Liste mit, in die Leute eintragen können, was sie #link(label("frühstück-mi"))[morgen zum Frühstück] mitbringen. Für Brötchen ist gesorgt.
 
 === Füller
 
@@ -345,7 +375,7 @@ Wikinger Schach, Spikeball, Frusby, Werwolf und weiteres im Park spielen.
 Tutoren mit Fahrrädern sorgen dafür, dass darauf nicht gewartet werden muss.
 
 Für Regenwetter haben wir die unsere #link(label("rooms"))[Räume] im Mathebau von 10 bis 14 Uhr zur Verfügung.
-Die Räume müssen gegen eine Kaution von jeweils 50~€ bei der FSM abgeholt werden.
+Die Räume können bei der FSM abgeholt werden.
 Raum -1.014 muss bis 14~Uhr geräumt und zurückgegeben sein.
 
 Jetzt ist auch ein guter Zeitpunkt, um mit Leuten noch ihre KIT-Karte abzuholen.
@@ -373,12 +403,15 @@ Dabei helfen wir ihnen und verteilen uns dafür ggf. auf die verschiedenen Aufwe
   [koeriwerk Eingang], o, X,
   [koeriwerk Ausgang], X, o,
   [Durchgang Cafeteria], o, X,
-  [Cafeteria], X, o
+  [Cafeteria], X, o,
+  hlinex(),
+  [Infobau Getränkeautomat], X, o,
+  [Mathebau Getränkeautomat], X, o,
+  [Hauptbib], o, o,
+  [Chemie-Cafeteria], o, o,
 )
 
-Geheimtipps:
 Extensive Autoload-Werbung ist gestattet.
-In der Chemie-Cafeteria und in der Hauptbib kann man die Karte auch aufladen.
 
 === FBI <fbi>
 
@@ -399,27 +432,21 @@ Für Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institu
 
 16 Uhr / nach FBI, Forum
 
-Wer ein eigenes Fahrrad dabei hat $->$ Steil \
+Eigenes Fahrrad + Volljährig $->$ Steil \
 Alle anderen $->$ Boulderwelt
 
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
 Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
 
-// TODO: Boulderwelt auch ankündigen (Linus hat angeschrieben, Antwort steht aus)
+// TODO: Boulderwelt auch ankündigen (Linus ist in Verhandlung)
 Beim Steil sind wir bereits angekündigt.
-Das Steil gewährt uns einen Gruppenrabatt von 10% (Eintritt dann noch 8,55€), hätte dafür aber gerne, dass wir mit möglichst wenigen Bezahlvorgängen einchecken.
-Wo möglich sammeln wir daher vorher Geld ein (selbe Methoden wir bei der #link(label("zensus"))[Steuereintreibung]) und bezahlen zusammen.
+Das Steil gewährt uns einen Gruppenrabatt von 10% (Eintritt dann noch 8,55€ + Schuhe), hätte dafür aber gerne, dass wir mit möglichst wenigen Bezahlvorgängen einchecken.
+Wo möglich sammeln wir daher vorher Geld ein (selbe Methoden wie bei der #link(label("zensus"))[Steuereintreibung]) und bezahlen zusammen.
 
 Um Zeit zu sparen, sollten die Erstis sich schoneinmal online registrieren:
 #link("https://www.boulderwelt.de/anmeldung/")[Boulderwelt], #link("https://boulderado.app/registration/5474727a9c2efe5971f616ab56cbdb7bc5679e8b")[Steil].
-Minderjähre benötigen einen Wisch von Ihren Eltern. \
-Boulderwelt: 
-#link("https://www.boulderwelt-karlsruhe.de/wp-content/uploads/2020/10/2022-08-29-Benutzerordnung-Karlsruhe.pdf")[Regel] (§A 1.2 Abs. 2)
-#footnote[Stattdessen auch mit volljähriger Begleitung möglich. Im Zweifel Linus fragen!], 
-#link("https://www.boulderwelt-karlsruhe.de/wp-content/uploads/2019/03/Einverstaendniserklaerung-fuer-Minderjaehrige-ueber-14-Jahre.pdf")[Wisch] \
-Steil:
-#link("https://boulderhalle-steil.com/allgemeine-geschaeftsbedingungen/#:~:text=Minderj%C3%A4hrige%20ab%2014%20Jahren")[Regel],
-#link("https://boulderhalle-steil.com/wp-content/uploads/2022/08/EVE-ab-14.pdf")[Wisch].
+
+Beim Steil sollte ein Abfahrtstermin ausgemacht werden.
 
 === Abendessen
 
@@ -430,10 +457,9 @@ Auch Steil und Boulderwelt bieten jeweils eine überschaubare Karte an Pizza, Fl
 
 === O-Phest
 
-// FSTODO (unten wsl. +1h)
-ab X Uhr, AKK.
+ab 18 Uhr, AKK.
 
-Wir empfehlen, ab YY Uhr zu kommen, weil es erfahrungsgemäß erst etwas später wirklich losgeht.
+Wir empfehlen, ab 20 Uhr zu kommen, weil es erfahrungsgemäß erst etwas später wirklich losgeht.
 
 // FSTODO: Bändchen Regelung (wenn zu spontan, dann in den Discord)
 
@@ -451,7 +477,7 @@ Gezeigt wird: Everything Everywhere All at Once.
 
 Für heute sind #link(label("getränke"))[Getränke] bei der Fachschaft bestellt und können abgeholt werden.
 Ab heute und morgen haben wir unsere #link(label("rooms"))[Räume] im Mathebau.
-Die Räume müssen gegen eine Kaution von jeweils 50~€ bei der FSM abgeholt werden.
+Die Räume können bei der FSM abgeholt werden.
 
 === Frühstück <frühstück-mi>
 
@@ -461,9 +487,8 @@ Belag bringen Erstis und Tutoren mit.
 Tutoren bringen (Karten-)Spiele mit.
 
 Florian und Jan-Arne besorgt 2 Brötchen pro Person.
-// AUFGABE
-Linda und X bringen Waffelteig mit.
-Tamira und Cian machen Waffeln.
+Linda bringt veganen Waffelteig und Fett mit.
+Tamira, Cian und Jonas machen Waffeln.
 
 Wir leihen 2 Waffeleisen bei der Fachschaft.
 - sind #link("https://wiki.fsmi.org/wiki/Waffeleisen")[reserviert] (bei Julian Roßkothen)
@@ -486,6 +511,8 @@ Vor Start:
 Die Fragebögen für die O-Rallye werden in der Fachschaft
 abgeholt und um 11 Uhr an die Erstis (zur Selbstorganisation) übergeben.
 Es sollten immer Tutoren für Rückfragen o.ä. im Seminarraum sein.
+
+Während der O-Phase wird die Kneipentour konkreter geplant und genappt.
 
 === Lehramtinformation <lehramt>
 
@@ -534,7 +561,7 @@ Eine Möglichkeit: Spieleabend schon Nachmittags beginnen.
 === Abendessen
 
 18 Uhr. \
-Lovelace: Vegiez (30 Leute) \
+Lovelace: Veggiezz (30 Leute) \
 Turing: Vietaroma (30 Leute) \
 Gemischt: Ox Ost (20 Leute, wird am ehesten abgesagt) \
 
@@ -544,19 +571,22 @@ Alternativ kann man das selbst entscheiden lassen über eine Nachricht im Discor
 
 ab 20 Uhr, #link(label("rooms"))[Räume im Mathebau].
 
-Montag wurde bereits Knabberzeug #link(label("einkauf"))[besorgt]. \
+Wir sind frei, spontan Snacks vom Edeka zu holen. \
 Tutoren und Erstis bringen Spiele mit. \
 Wenn Interesse besteht, dann kann man ein _Let's play Campussystem_ anbieten.
 
 #text(red)[Wichtig]:
 + Cocktailabend Anmeldungen aufnehmen!
-+ Raum -1.014 muss am Ende aufgeräumt und bei der FSM zurückgegeben werden. Kaution zurückbekommen nicht vergessen!
++ Raum -1.014 muss am Ende aufgeräumt und bei der FSM zurückgegeben werden.
 
 == Freitag
 
 === Abschlussveranstaltung
 
 11:30 - 12:30 Uhr, Gerthsen.
+
+In dieser Zeit kann auch der -1.015 aufgeräumt werden.
+Da sollte alles raus bis auf angenfangene Kästen -- die können noch beim #link(label("mathe-treff"))[Mathe-Treff] verwendet werden.
 
 === Mensa
 
@@ -571,14 +601,11 @@ Wir bieten einige Aktivitäten an und treffen uns dafür um 14:30 Uhr vor der Me
 Folgende Personen kümmern sich um die Durchführung:
 
 #dict(
-  // AUFGABEn
   // unbesetzte fallen aus
   [*Aktivität*], [*Zuständige*],
   [SCC], [Jens],
-  [Naturkundemuseum], [TODO],
-  [ZKM], [TODO],
-  [Minigolf], [TODO],
-  [Zoo], [TODO],
+  [Naturkundemuseum], [Anh], // TODO Leon?
+  [ZKM], [Leo],
   [Bouldern], [Florian, Tamira, Leo, Jan-Arne],
 )
 
@@ -586,30 +613,46 @@ Parallel läuft der Einkauf und Aufbau für den Cocktailabend.
 
 === Einkauf
 
-// AUFGABE
-Einkaufsteam: Alina, Linus, TODO
+Einkaufsteam: Alina, Linus, Jonas
 
-Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter gliehen.
+Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter geliehen.
 
-// FSTODO
-+ Transporter holen (TODO: how to)
++ Transporter holen
+  + In FSI Führerschein vorzeigen und Karte abholen
+  + Transporter #link("https://karlsruhe.stadtmobil.de/privatkunden/so-funktionierts/#:~:text=Wenn%20Sie%20zum-,Buchungsbeginn,-an%20der%20Station")[wie bei stadtmobil üblich] abholen
+  + Karte zurückbringen!
 + Altbestände und Equipment von Flo holen *und zum HaDiKo bringen*
 // TODO: Metrokarte
 + Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?, Im Zweifel kriegen wir über die FS eine)
-+ Transporter zurückbringen (TODO: how to)
++ Transporter zurückbringen
+  + ggf. tanken!
+  + Transporter wie für stadtmobil üblich zurückgeben
+  + Karte in FSI bringen
 
 === Cocktailabend <cocktailabend>
 
 Barbetrieb ab 20 Uhr.
 
+// TODO: Kleingeld (von Luca?)
+
+Preise sind:
+#dict(
+  [mit Alkohol], [12~€],
+  [ohne Alkohol], [9~€],
+)
+
+Eingeladen werden Erstis, Tutoren, FS-Orga, "+1en", Laura.
+Wenn zu erwarten ist, dass das zu wenige sind, dann auch #mono[alle@].
+
 Es wird zeitlich passend der #link("https://discord.com/channels/739522765677133894/963505261388107846/1030438323086438440")[Anfahrtsplan] verschickt.
 
-Flo? hat die K1-Bar gemietet.
+Flo hat die K1-Bar gemietet.
 Der Aufbau beginnt um 15 Uhr und wird von Max organisiert.
 Alle Helfer der Barschichten sollen ab 19 Uhr der Bareinführung lauschen.
 #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfer Schichtenplan].
 
 Teilnahme nur nach Anmeldung bis zum Vorabend.
+// FSTODO Bändchen: ggf. kann man Volljährigkeit an O-Phest Bändchen erkennen.
 Am Eingang wird das Alter (von Unbekannten) abgefragt und Stempel vergeben.
 An der Bar werden (mindestens stichprobenartig) Stempel kontrolliert.
 
@@ -622,20 +665,14 @@ An der Bar werden (mindestens stichprobenartig) Stempel kontrolliert.
 
 Alle Mädels gerne anwesend.
 
-=== Mathe-Treff
+=== Mathe-Treff <mathe-treff>
 
 13 Uhr im Mathebau Keller.
 
 Alle Mathes gerne anwesend, mathelastige Informatiker auch.
 
-// AUFGABE
-Abbauteam: Alina, TODO
-// sollten da nicht auch andere Gruppen helfen?
-
 === O-Philm II
 
-// FSTODO
-X Uhr, Hertz-Hörsaal.
+18 Uhr, Hertz-Hörsaal.
 
-// FSTODO: wirklich?
 Gezeigt wird: WarGames.
