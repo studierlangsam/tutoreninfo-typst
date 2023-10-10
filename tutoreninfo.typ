@@ -175,8 +175,7 @@ Auf der #link("https://studierlangsam.de/#Wochenplan")[Webseite] oder #link(labe
 
 === Einkauf <einkauf>
 
-// auch in Vorwoche möglich
-Anh Karina geht einkaufen und Schild holen und bringt das Zeug bis um 10 Uhr zum Audimax.
+Anh und Karina gehen einkaufen und bringen das Zeug bis um 10 Uhr zum Audimax.
 Stark überschüssiges kann im #link(label("rooms"))[Lagerraum] im Mathebau gelagert werden.
 
 Einkaufsliste:
