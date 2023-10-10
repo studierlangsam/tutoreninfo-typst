@@ -45,3 +45,4 @@
 
 #let mono(body) = text(font: "Latin Modern Mono")[#body]
 #let dict(..body) = table(columns: 2, stroke: none, ..body)
+#let neu = text(green, weight: "bold")[Neu seit Prerelease:\ ]

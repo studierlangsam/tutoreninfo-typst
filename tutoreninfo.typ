@@ -135,6 +135,10 @@ Die Tickets bekommen wir am Montag und verteilen sie im Rahmen der #link(label("
 Ungenutzte Tickets können wir bis spätestens einschließlich Mittwoch kostenlos zurückgeben.
 Das heißt, dass wir auch am Dienstag noch Tickets verkaufen können.
 
+#neu
+Der KVV geht davon aus, dass diese Tickets dafür genutzt werden, dass zur Veranstaltung (O-Phase) und zurück gefahren wird.
+Diese Illusion wollen wir ihm nicht nehmen.
+
 == Infos für Erstis
 
 Fragen zum Aufbau des Studiums und zu einigen prüfungsrelevanten Regelungen werden in der #link("https://www.fsmi.uni-karlsruhe.de/Studium/Studienanfaenger/")[Erstiinfo] beantwortet.
@@ -169,7 +173,7 @@ Unvollständige Zusammenfassung:
 
 == Übersicht
 
-Auf der #link("https://studierlangsam.de/#Wochenplan")[Webseite] oder #link(label("wochenplan"))[oben].
+Auf der #link("https://studierlangsam.de/#Wochenplan")[Webseite] (mit Links zu den Orten) oder #link(label("wochenplan"))[oben].
 
 == Montag
 
@@ -206,7 +210,7 @@ Es wird unser Film gezeigt und Linda und Linus erzählen was zu uns und unserem 
 
 // FSTODO Vorstellung
 Nach der Vorstellung warten wir als Gruppe WO.
-Jemand leitet die Erstis aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
+Jemand leitet die aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
 Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
 
 Wenn abzusehen ist, dass wir insgesamt weniger als ca. 35 Erstis haben, dann legen wir die Kleingruppen von Anfang an zusammen.
