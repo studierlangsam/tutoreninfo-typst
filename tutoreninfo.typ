@@ -167,6 +167,14 @@ Unvollständige Zusammenfassung:
   - Username: #mono[uxxxx\@kit.edu]
   - Passwort: KIT-Account-Passwort
 
+=== Fachschaftsangebote
+
+In der Vorlesungszeit:
+Jeden Dienstag um 9:30 Uhr in der FSI und
+jeden Donnerstag um 9:30 Uhr in der FSM
+gibt es kostenloses Frühstück für alle.
+
+// TODO: SAT
 
 
 = Woche im Detail
@@ -242,6 +250,7 @@ Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem 
 
 === Zensus und Steuereintreibung <zensus>
 
+// TODO: Linus braucht dafür auf jeden Fall eine zweite Person
 Linus sammelt getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
 #dict(
   [10~€], [mit Pizza],
@@ -577,6 +586,7 @@ ab 20 Uhr, #link(label("rooms"))[Räume im Mathebau].
 Wir sind frei, spontan Snacks vom Edeka zu holen. \
 Tutoren und Erstis bringen Spiele mit. \
 Wenn Interesse besteht, dann kann man ein _Let's play Campussystem_ anbieten.
+Wenn Interesse besteht, dann kann man ein #link("https://huijing.github.io/ppt-karaoke/")[_PowerPoint-Karakoke_] spielen.
 
 #text(red)[Wichtig]:
 + Cocktailabend Anmeldungen aufnehmen!
