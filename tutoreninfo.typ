@@ -696,6 +696,11 @@ Die Bar muss auch wieder aufgeräumt werden.
 Wann wir uns dafür Treffen, machen wir im Discord aus.
 Helfer können sich in der #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfertabelle] eintragen.
 
+Wir haben einen Transporter von 13 bis 18 Uhr geliehen.
+Ausleihe wir beim #link(label("cock-einkauf"))[Einkauf].
+Diesmal muss er wirklich pünktlich zurück, es gibt #link("https://orga.shirkanesi.com/Transporterplan/")[Nachnutzer].
+// TODO: Müssen wir den wirklich in der Waldstadt holen und zurückbringen? Wenn ja sollten wir die Karte behalten dürfen.
+
 === Mädels-Brunch
 
 10 Uhr im Mathebau Keller.
