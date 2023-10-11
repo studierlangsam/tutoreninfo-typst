@@ -76,8 +76,10 @@ Folgender QR-Code führt zum Discord und ist auch auf den Visitenkarten zu finde
 
 == Finanzen
 
-Wenn etwas bezahlt werden muss, strecken Tutoren das vor und erhalten es dann aus der Kasse zurück.
-Wenn ihr etwas für Studier Langsam bezahlt, dann tragt es bitte in #link("https://airtable.com/appRVKuyH5AG2YXoN/tblRoTygvoQURmbqc/viwoRpgV2v5lfmnDL")[diese Tabelle] ein.
+#neu
+Wenn ihr etwas für Studier Langsam bezahlt, dann streckt es bitte vor, bewahr wenn möglich einen Beleg auf und tragt es in #link("https://airtable.com/appRVKuyH5AG2YXoN/tblRoTygvoQURmbqc/viwoRpgV2v5lfmnDL")[diese Tabelle] ein.
+Wenn ihr es noch in der O-Phase zurück haben wollt, dann sagt Bescheid.
+Spätestens bei den Stammtischen danach wird abgerechnet.
 
 == Getränke <getränke>
 
@@ -104,6 +106,7 @@ Das am Besten über Linus machen.
 
 == Schließfächer
 
+#neu
 Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
 #table(
   columns: 3,
@@ -111,7 +114,7 @@ Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
 
   [*Gruppe*], [*Nr*], [*Inhalt*],
   [Lovelace], [104], [
-
+    Schildikostüm, Wikingerschach, Kreppband, Eddings
   ],
   [Turing], [
     // TODO: Schlüssel von Jakob holen
@@ -139,6 +142,11 @@ Das heißt, dass wir auch am Dienstag noch Tickets verkaufen können.
 Der KVV geht davon aus, dass diese Tickets dafür genutzt werden, dass zur Veranstaltung (O-Phase) und zurück gefahren wird.
 Diese Illusion wollen wir ihm nicht nehmen.
 
+== Fachschaftsbesetzung
+
+#neu
+In der O-Phase sind beide Fachschaften von 08 Uhr Morgens bis 02 Uhr Nachts durchgehend besetzt.
+
 == Infos für Erstis
 
 Fragen zum Aufbau des Studiums und zu einigen prüfungsrelevanten Regelungen werden in der #link("https://www.fsmi.uni-karlsruhe.de/Studium/Studienanfaenger/")[Erstiinfo] beantwortet.
@@ -146,7 +154,7 @@ Dort findet sich auch ein Stundenplan für Bachelor-Erstis.
 
 Generell kann die Fachschaft (also auch wir) einem bei vielem Helfen.
 
-Man findet in sehr vielen (v.a. inhaltlichen) Fragen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discrod].
+Man findet in sehr vielen (v.a. inhaltlichen) Fragen Hilfe auf #link(label("discord"))[unserem Discord] oder auf dem großen #link("https://kitmatheinfo.de")[KIT Mathe Info Discord].
 
 Man kann als Info Ana und LA für Mathes hören.
 Die beiden LAs werden dieses Jahr getrennt ablaufen.
@@ -174,7 +182,10 @@ Jeden Dienstag um 9:30 Uhr in der FSI und
 jeden Donnerstag um 9:30 Uhr in der FSM
 gibt es kostenloses Frühstück für alle.
 
-// TODO: SAT
+#neu
+Das Semster-Auftakt-Treffen (SAT) findet am 2. November (Donnerstag) um 19 Uhr im Infobau Westfoyer statt.
+Am 15. November ist der Einstiegs-FSR.
+
 
 
 = Woche im Detail
@@ -195,7 +206,7 @@ Einkaufsliste:
 - Spüli, Lappen/Schwamm
 
 Dominik holt das Schild von Peter.
-// TODO: neu ankündigen
+// TODO Dominik: neu ankündigen
 
 === Begrüßungsveranstaltung
 
@@ -450,8 +461,7 @@ Alle anderen $->$ Boulderwelt
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
 Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
 
-// TODO: Boulderwelt auch ankündigen (Linus ist in Verhandlung)
-Beim Steil sind wir bereits angekündigt.
+In beiden Boulderhallen sind wir bereits angekündigt.
 Das Steil gewährt uns einen Gruppenrabatt von 10% (Eintritt dann noch 8,55€ + Schuhe), hätte dafür aber gerne, dass wir mit möglichst wenigen Bezahlvorgängen einchecken.
 Wo möglich sammeln wir daher vorher Geld ein (selbe Methoden wie bei der #link(label("zensus"))[Steuereintreibung]) und bezahlen zusammen.
 
@@ -467,7 +477,7 @@ Wir sollten Erstis Empfehlungen geben, wo man in Campusnähe schnell etwas bekom
 (Kabibi, Wokman, Dominos, Kebab etc.)
 Auch Steil und Boulderwelt bieten jeweils eine überschaubare Karte an Pizza, Flammkuchen, belegter Backware und Getränken an.
 
-=== O-Phest
+=== O-Phest <o-phest>
 
 ab 18 Uhr, AKK.
 
@@ -617,26 +627,29 @@ Folgende Personen kümmern sich um die Durchführung:
   // unbesetzte fallen aus
   [*Aktivität*], [*Zuständige*],
   [SCC], [Jens],
-  [Naturkundemuseum], [Anh], // TODO Leon?
+  [Naturkundemuseum], [Anh, Leon],
   [ZKM], [Leo],
   [Bouldern], [Florian, Tamira, Leo, Jan-Arne],
 )
 
 Parallel läuft der Einkauf und Aufbau für den Cocktailabend.
 
-=== Einkauf
+=== Einkauf <cock-einkauf>
 
 Einkaufsteam: Alina, Linus, Jonas
 
-Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter geliehen.
+#neu
+Ggf. übernehmen wir ungeöffnete Reste von Malibu (Vidka, Gin, Rum, Cola, Grenadine).
+Dafür hat Linus Kontakt mit Aaron.
+
+Wir haben über die Fachschaft *von 13 bis 21 Uhr* einen Transporter geliehen.
 
 + Transporter holen
-  + In FSI Führerschein vorzeigen und Karte abholen
+  + In FSI Führerschein vorzeigen und stadtmobil-Karte und Metrokarte abholen
   + Transporter #link("https://karlsruhe.stadtmobil.de/privatkunden/so-funktionierts/#:~:text=Wenn%20Sie%20zum-,Buchungsbeginn,-an%20der%20Station")[wie bei stadtmobil üblich] abholen
   + Karte zurückbringen!
 + Altbestände und Equipment von Flo holen *und zum HaDiKo bringen*
-// TODO: Metrokarte
-+ Bei Metro einkaufen und liefern (TODO: wer hat Metrokarte?, Im Zweifel kriegen wir über die FS eine)
++ Bei Metro einkaufen und liefern (Metrokarte von der Fachschaft, hier bezahlen auswählen!)
 + Transporter zurückbringen
   + ggf. tanken!
   + Transporter wie für stadtmobil üblich zurückgeben
@@ -644,17 +657,10 @@ Wir haben über die Fachschaft *von 13:00 bis 20:30 Uhr* einen Transporter gelie
 
 === Cocktailabend <cocktailabend>
 
-Barbetrieb ab 20 Uhr.
+#neu
+Barbetrieb ab 20 Uhr. Aufbau über den Nachmittag.
 
-// TODO: Kleingeld (von Luca?)
-
-Preise sind:
-#dict(
-  [mit Alkohol], [12~€],
-  [ohne Alkohol], [9~€],
-)
-
-Eingeladen werden Erstis, Tutoren, FS-Orga, "+1en", Laura.
+Eingeladen werden Erstis, Tutoren, FS-Orga, "+1en" und Laura.
 Wenn zu erwarten ist, dass das zu wenige sind, dann auch #mono[alle@].
 
 Es wird zeitlich passend der #link("https://discord.com/channels/739522765677133894/963505261388107846/1030438323086438440")[Anfahrtsplan] verschickt.
@@ -663,14 +669,29 @@ Flo hat die K1-Bar gemietet.
 Der Aufbau beginnt um 15 Uhr und wird von Max organisiert.
 Alle Helfer der Barschichten sollen ab 19 Uhr der Bareinführung lauschen.
 #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfer Schichtenplan].
+Kleingeld und Biertische gibt es bei Luca.
 
 Teilnahme nur nach Anmeldung bis zum Vorabend.
-// FSTODO Bändchen: ggf. kann man Volljährigkeit an O-Phest Bändchen erkennen.
 Am Eingang wird das Alter (von Unbekannten) abgefragt und Stempel vergeben.
+Je nach Bändchenregelung am #link(label("o-phest"))[O-Phest] kann man ggf Volljährigkeit daran erkennen.
 An der Bar werden (mindestens stichprobenartig) Stempel kontrolliert.
+
+Die Preise sind:
+#dict(
+  [mit Alkohol], [12~€],
+  [ohne Alkohol], [9~€],
+)
+
 
 
 == Samstag
+
+=== Cocktailabend Aufräumen
+
+#neu
+Die Bar muss auch wieder aufgeräumt werden.
+Wann wir uns dafür Treffen, machen wir im Discord aus.
+Helfer können sich in der #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfertabelle] eintragen.
 
 === Mädels-Brunch
 
@@ -682,7 +703,7 @@ Alle Mädels gerne anwesend.
 
 13 Uhr im Mathebau Keller.
 
-Alle Mathes gerne anwesend, mathelastige Informatiker auch.
+Alle Mathes gerne anwesend, mathelastige Infos auch.
 
 === O-Philm II
 
