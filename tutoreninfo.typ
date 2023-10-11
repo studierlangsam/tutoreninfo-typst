@@ -7,7 +7,10 @@
     "Linus",
     "Dominik"
   ),
-  date: "Stand vom " + datetime.today().display("[day]. [month repr:long] [year]"),
+  date: [
+    Stand vom 
+    #datetime.today().display("[day]. [month repr:long] [year]") \
+    Änderungen seit Prerelease sind #text(green, weight: "bold")[grün] markiert.],
 )
 
 
