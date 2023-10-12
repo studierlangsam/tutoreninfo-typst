@@ -119,10 +119,7 @@ Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
   [Lovelace], [104], [
     Schildikostüm, Wikingerschach, Kreppband, Eddings
   ],
-  [Turing], [
-    // TODO: Schlüssel von Jakob holen
-  ], [
-  ]
+  [Turing], [80 ], [Slackline, Wikingerschach von Dominik]
 ) 
 
 Die Gesetze der Schlüssel:
