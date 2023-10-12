@@ -213,26 +213,24 @@ Dominik holt das Schild von Peter.
 
 === Begrüßungsveranstaltung
 
-Die Begrüßungsveranstaltung findet um 9:00 Uhr im Audimax statt. Wir
-dürfen U-Boote sein, sollten dann aber in der
-Rolle des Erstis bleiben. Falls es nicht genug Platz für alle Erstis
-gibt, sollten die U-Boote natürlich wieder gehen (Codewort dafür ist
-"InWis raus"). 
+Die Begrüßungsveranstaltung findet um 9:00 Uhr im Audimax statt.
+Wir dürfen U-Boote sein, sollten dann aber in der Rolle eines (elitären) Erstis bleiben.
+Falls es nicht genug Platz für alle Erstis gibt, 
+sollten die U-Boote natürlich wieder gehen (Codewort dafür ist "InWis raus"). 
 
-Zwischen 9:30 und 9:45 Uhr erscheinen wir als Gruppe vor den Audimax ohne dass uns die Erstis drinnen entdecken.
+Zwischen 9:30 und 9:45 Uhr erscheinen wir als Gruppe vor den Audimax, ohne dass uns die Erstis drinnen entdecken.
 Die U-Boote kommen dazu, nachdem sie ihre Rolle verlassen.
-Gegen 10:00 Uhr fängt die Gruppenvorstellung an.
-// FSTODO Vorstellung
-Wir sind als X. bzw. X. letzte Gruppe *nach X* dran.
+Um circa 10:15 Uhr fängt die Gruppenvorstellung an.
+Wir sind als *2. von 11* Gruppen *nach Party Pi-ple* dran.
 Es wird unser Film gezeigt und Linda und Linus erzählen was zu uns und unserem Wochenplan.
 
 #text(red)[Neu]: Am Ende treten nocheinmal alle Gruppen auf!
 
 === Erstisammlung <erstisammlung>
 
-// FSTODO Vorstellung
-Nach der Vorstellung warten wir als Gruppe WO.
-Jemand leitet die aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
+Nach der Vorstellung warten wir als Gruppe #link("https://bwsyncandshare.kit.edu/s/M7WRqQcxA3sddQe")[eher nördich an den Fahrradständern].
+// AUFGABE Linus durch eine von ihnen ersetzen
+Zwei Leute leiten die aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
 Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
 
 Wenn abzusehen ist, dass wir insgesamt weniger als ca. 35 Erstis haben, dann legen wir die Kleingruppen von Anfang an zusammen.
@@ -264,7 +262,7 @@ Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem 
 
 === Zensus und Steuereintreibung <zensus>
 
-// TODO: Linus braucht dafür auf jeden Fall eine zweite Person
+// AUFGABE Linus braucht dafür auf jeden Fall eine zweite Person
 Linus sammelt getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
 #dict(
   [10~€], [mit Pizza],
