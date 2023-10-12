@@ -370,6 +370,7 @@ Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618
 Größtenteils statisch und öffentlich online gehostet.
 Bei Schreibrätseln sind sie in Klarsichtfolien vor Ort ausgehängt.
 
+// AUFGABE / TODO: Einteilung machen
 Tutoren gehen rum und schauen nach dem Rechten.
 
 Hinweise am Anfang:
