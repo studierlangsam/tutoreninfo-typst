@@ -224,7 +224,7 @@ Um circa 10:15 Uhr fängt die Gruppenvorstellung an.
 Wir sind als *2. von 11* Gruppen *nach Party Pi-ple* dran.
 Es wird unser Film gezeigt und Linda und Linus erzählen was zu uns und unserem Wochenplan.
 
-#text(red)[Neu]: Am Ende treten nocheinmal alle Gruppen auf!
+// entgegen der Folien der Tutorentage treten bei der Wahl nicht nochmal alle Gruppen auf.
 
 === Erstisammlung <erstisammlung>
 
