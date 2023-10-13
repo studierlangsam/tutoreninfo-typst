@@ -557,7 +557,7 @@ Die Fragebögen für die O-Rallye werden in der Fachschaft
 abgeholt und um 11 Uhr an die Erstis (zur Selbstorganisation) übergeben.
 Es sollten immer Tutoren für Rückfragen o.ä. im Seminarraum sein.
 
-Während der O-Phase wird die Kneipentour konkreter geplant und genappt.
+Während der O-Rallye wird die Kneipentour konkreter geplant und genappt.
 
 === Lehramtinformation <lehramt>
 
