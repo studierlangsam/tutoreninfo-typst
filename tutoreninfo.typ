@@ -112,6 +112,11 @@ Die Bestellung ist auf Kommision, sodass wir nicht Benötigtes vollständig erst
 Sollten wir merken, dass es knapp wird, können wir eventuell auch noch "Nachbestellen" bzw. Reserven der Fachschaft nutzen, die dann natürlich auch gezahlt werden müssen.
 Das am Besten über Linus machen.
 
+=== Becher
+
+Wir haben über die Fachschaft eine 240er-Box HaDiKo-Becher kostenlos geliehen.
+Um diese zu spülen dürfen wir die Spülmaschinen in den Küchenecken des ersten Stocks benutzen.
+
 == Schließfächer
 
 #neu
@@ -167,7 +172,7 @@ Man findet in sehr vielen (v.a. inhaltlichen) Fragen Hilfe auf #link(label("disc
 Man kann als Info Ana und LA für Mathes hören.
 Die beiden LAs werden dieses Jahr getrennt ablaufen.
 Dieses Jahr sind die Mathe-Vorlesungen als Info eher mit Vorsicht zu genießen.
-(Hundertmark vs Herzog, Hartnick vs Kühnlein/Dahmen)
+(Hundertmark vs Tolksdorf (neu), Hartnick vs Kühnlein/Dahmen)
 
 Niemand wird in ein Doppelstudium gebaitet.
 Dazu gehört, dass nicht durch eine Häufung von Doppelstudierenden in unseren Reihen der Eindruck entsteht, das würde fast jeder machen.
@@ -472,12 +477,15 @@ Termine:
 )
 
 Für #link(label("lehramt"))[Lehramt] gibt es gesondert am Mittwoch Programm.
-Für Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institutsvorstellung].
+Für Info Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institutsvorstellung].
+Für Mathe Master gibt es am Dinestag zusätzlich das Doktorand:innen-Café.
+// TODO: Uhrzeit rausfinden, Kapitel erstellen und hier verlinken
 
 === Bouldern <bouldern>
 
 16 Uhr / nach FBI, Forum
 
+// TODO: hoffentlich haben genug Leute ein eigenes Rad. Wahrscheinlich ist das nicht wirklich so - daher sollten wir einen Ausweichplan haben
 Eigenes Fahrrad + Volljährig $->$ Steil \
 Alle anderen $->$ Boulderwelt
 
@@ -534,6 +542,7 @@ Tutoren bringen (Karten-)Spiele mit.
 Florian und Jan-Arne besorgt 2 Brötchen pro Person.
 Linda bringt veganen Waffelteig und Fett mit.
 Tamira, Cian und Jonas machen Waffeln.
+Linus bringt Holzbesteck mit.
 
 Wir leihen 2 Waffeleisen bei der Fachschaft.
 - sind #link("https://wiki.fsmi.org/wiki/Waffeleisen")[reserviert] (bei Julian Roßkothen)
@@ -570,7 +579,6 @@ Gegebenenfalls werden Erstis von einem Tutor dorthin (Geb. 11.10, Engelbert-Arno
 === Institutsvorstellung <institut>
 
 Um 14:30 - 16:30 Uhr im Audimax werden Mathe- und Infoinstitute für Master-Erstis vorgestellt.
-Das ist neben der #link(label("fbi"))[FBI] das einzige Master-spezifische Programm.
 
 === Kneipentour <kneipentour>
 
