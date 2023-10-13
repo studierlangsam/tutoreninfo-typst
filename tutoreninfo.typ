@@ -122,11 +122,11 @@ Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
 
   [*Gruppe*], [*Nr*], [*Inhalt*],
   [Lovelace], [104], [
-    Schildikostüm, Wikingerschach, Kreppband, Eddings
+    Schildikostüm, Kreppband, Eddings,
+    Wikingerschach, Frisbee, Spikeballset
   ],
-  [Turing], [
-    // TODO: Schlüssel von Jakob holen
-  ], [
+  [Turing], [80], [
+    Slackline, Wikingerschach, Frisbee von Dominik
   ]
 ) 
 
