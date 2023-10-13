@@ -44,11 +44,16 @@
 Den Raum -1.015 haben wir die ganze Woche (Mo-Fr) und können ihn damit als Lagerraum verwenden.
 
 Für beide Räume zusammen wird Anfang der O-Phase eine Kaution von 50~€ hinterlegt, die nach der O-Phase zurückerstattet wird.
+Wir entrichten sie in Bar, vermutlich am Sonntag oder Montag.
+
+#neu
+Wer an welchen Programmpunkten nicht teilnehmen kann, steht in #link("https://airtable.com/appRVKuyH5AG2YXoN/tbldiiOmpKigSk2Oq/viwbLPUSupN0JWxTs?blocks=hide")[Airtable].
 
 = Wochenplan <wochenplan>
 // TODO wenn webseite fertig: ICS verlinken
 Gibt es auch als ICS.
-#scale(125%, origin: top)[
+#v(-2em)
+#scale(120%, origin: top)[
   #image("assets/Wochenplan.svg")
 ]
 
@@ -186,6 +191,12 @@ gibt es kostenloses Frühstück für alle.
 Das Semster-Auftakt-Treffen (SAT) findet am 2. November (Donnerstag) um 19 Uhr im Infobau Westfoyer statt.
 Am 15. November ist der Einstiegs-FSR.
 
+=== MINT
+
+#neu
+Die Anmeldung für #link("https://www.mint-kolleg.kit.edu/Semesterkurse.php")[Semesterkruse beim MINT] ist seit Freitag, dem 13.10. offen.
+Die Plätze sind erfahrungsgemäß recht vergriffen.
+Wenn Erstis interesse haben, sollten sie sich besser bald anmelden.
 
 
 = Woche im Detail
@@ -221,14 +232,13 @@ Um circa 10:15 Uhr fängt die Gruppenvorstellung an.
 Wir sind als *2. von 11* Gruppen *nach Party Pi-ple* dran.
 Es wird unser Film gezeigt und Linda und Linus erzählen was zu uns und unserem Wochenplan.
 
-#text(red)[Neu]: Am Ende treten nocheinmal alle Gruppen auf!
+// entgegen der Folien der Tutorentage treten bei der Wahl nicht nochmal alle Gruppen auf.
 
 === Erstisammlung <erstisammlung>
 
 Nach der Vorstellung warten wir als Gruppe #link("https://bwsyncandshare.kit.edu/s/M7WRqQcxA3sddQe")[eher nördich an den Fahrradständern].
-// AUFGABE Linus durch eine von ihnen ersetzen
-Zwei Leute leiten die aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
-Sollte die digitale Einteilung funktionieren, holt Linus unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
+Linda und Anh leiten die aus dem Audimax kommenden Erstis mit dem großen Schild zu uns. 
+Sollte die digitale Einteilung funktionieren, holt Linda unsere Visitenkarten von der Fachschaft und verteilt diese an die Erstis, um sie in die Untergruppen (Lovelace, Turing) einzuteilen.
 
 Wenn abzusehen ist, dass wir insgesamt weniger als ca. 35 Erstis haben, dann legen wir die Kleingruppen von Anfang an zusammen.
 Späteres Zusammenlegen vorbehalten.
@@ -284,6 +294,10 @@ Folgende allgemeine Infos sollten die Erstis noch erhalten:
 - Bild hochladen für KIT-Card, wir können auch beim Abholen helfen
 
 === Kennenlernen <kennenlernen>
+
+// AUFGABE
+#neu
+*Wichtig*: Jemand (mind. 2 Leute) muss die QR-Codes für die Schnitzeljagd aufhängen
 
 Bälle und Bingoblätter gibt es bei Linda abzuholen.
 
@@ -353,6 +367,7 @@ Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618
 Größtenteils statisch und öffentlich online gehostet.
 Bei Schreibrätseln sind sie in Klarsichtfolien vor Ort ausgehängt.
 
+// AUFGABE / TODO: Einteilung machen
 Tutoren gehen rum und schauen nach dem Rechten.
 
 Hinweise am Anfang:
@@ -362,6 +377,13 @@ Hinweise am Anfang:
 === #link(label("cocktailabend"))[Cocktailabend]-Interesse abfragen
 
 Per Nachricht und Reaktionen im Discord.
+
+=== Raumbedarf klären
+
+#neu
+Dominik klärt mit Jakob die Raumsituation
++ am Mittwoch Morgen und
++ am Donnerstag Abend. 
 
 === O-Grillen
 
@@ -641,6 +663,8 @@ Ggf. übernehmen wir ungeöffnete Reste von Malibu (Vidka, Gin, Rum, Cola, Grena
 Dafür hat Linus Kontakt mit Aaron.
 
 Wir haben über die Fachschaft *von 13 bis 21 Uhr* einen Transporter geliehen.
+Ab 13 Uhr haben wir den Transporter -- das bedeutet, dass wir die Karte schon vorher in der Fachschaft abholen.
+Der Transporter steht am Hauptfriedhof.
 
 + Transporter holen
   + In FSI Führerschein vorzeigen und stadtmobil-Karte und Metrokarte abholen
@@ -691,10 +715,12 @@ Die Bar muss auch wieder aufgeräumt werden.
 Wann wir uns dafür Treffen, machen wir im Discord aus.
 Helfer können sich in der #link("https://docs.google.com/spreadsheets/d/1c-weUnvldYcPYAASri1qC3O_zJjo_i8jx-v88VeoJTc/edit?usp=sharing")[Helfertabelle] eintragen.
 
+#neu
 Wir haben einen Transporter von 13 bis 18 Uhr geliehen.
 Ausleihe wir beim #link(label("cock-einkauf"))[Einkauf].
-Diesmal muss er wirklich pünktlich zurück, es gibt #link("https://orga.shirkanesi.com/Transporterplan/")[Nachnutzer].
-// TODO: Müssen wir den wirklich in der Waldstadt holen und zurückbringen? Wenn ja sollten wir die Karte behalten dürfen.
+Ab 13 Uhr haben wir den Transporter -- das bedeutet, dass wir die Karte schon vorher in der Fachschaft abholen.
+Der Transporter steht an der Haltestelle Waldstadt Zentrum.
+Diesmal muss die Karte wirklich bis 18 Uhr zurück, es gibt eine #link("https://orga.shirkanesi.com/Transporterplan/")[Anschlussbuchung].
 
 === Mädels-Brunch
 
