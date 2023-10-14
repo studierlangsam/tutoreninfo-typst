@@ -458,8 +458,8 @@ Dabei helfen wir ihnen und verteilen uns dafür ggf. auf die verschiedenen Aufwe
   hlinex(),
   [Infobau Getränkeautomat], X, o,
   [Mathebau Getränkeautomat], X, o,
-  [Hauptbib], o, o,
-  [Chemie-Cafeteria], o, o,
+  [Hauptbib], X, o,
+  [Chemie-Cafeteria], colspanx(2)[#align(center)[k.A.]],
 )
 
 Extensive Autoload-Werbung ist gestattet.
