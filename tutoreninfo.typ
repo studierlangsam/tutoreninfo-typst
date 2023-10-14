@@ -1,4 +1,4 @@
-#import "@preview/tablex:0.0.5": gridx, hlinex, vlinex
+#import "@preview/tablex:0.0.5": gridx, hlinex, vlinex, colspanx
 #import "template.typ": *
 
 #show: project.with(
@@ -369,18 +369,26 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
 
 === Campustour / Schnitzeljagd
 
-// TODO wenn fertig: Infos auch hier hin packen.
+#neu
 Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618")[Discord Channel].
 
-Größtenteils statisch und öffentlich online gehostet.
+Größtenteils statisch und öffentlich bei bwsyncandshare gehostet.
 Bei Schreibrätseln sind sie in Klarsichtfolien vor Ort ausgehängt.
 
-// AUFGABE / TODO: Einteilung machen
-Tutoren gehen rum und schauen nach dem Rechten.
+- Es gibt MINT + 11 Stationen (DoublyLinkedList) + Ende.
+- Turing und Lovelace gehen in unterschiedliche Richtungen.
+// TODO: Einteilung
+// AUFGABE
+- Immer zwei Tutors betreuen eine Hand voll Stationen.
+  - Die Tutoren nehmen für ihre Stationen die laminierten Aushänge und ggf. noch Aufgabenblätter mit
+  - Am Mathe- und Infobau sollen Tutoren Miniführungen geben
+- Ende ist im Fasanengarten, da gibt es Kekse nach sagen des Codeworts. Das Codewort ist "Dominik" bzw. "Alina" für die entsprechenden Gruppen.
+- Linda bringt das ganze Zeug mit (Klarsichtfolien gehören ihr und bekommt sie zurück)
 
 Hinweise am Anfang:
-- Alle Ziele sind auf dem Campus Süd.
-- Wenn ihr euch lost fühlt, dann ruft uns an.
+- Wenn ihr euch lost fühlt, dann sprecht oder ruft uns an.
+- #text(green)[Grün] markiert ist Turing, #text(orange)[Orange] markiert ist Lovelace.
+- Tipp: merk euch, wenn ihr an Lernplätzen vorbeikommt, ihr werdet euch im Winter freuen, wenn ihr einen Geheimtipp kennt.
 
 === #link(label("cocktailabend"))[Cocktailabend]-Interesse abfragen
 
