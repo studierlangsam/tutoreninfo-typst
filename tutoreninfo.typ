@@ -1,6 +1,9 @@
 #import "@preview/tablex:0.0.5": gridx, hlinex, vlinex, colspanx
 #import "template.typ": *
 
+#let markChanges = true
+#let neu = if markChanges {text(green, weight: "bold")[Neu seit Prerelease:\ ]}
+
 #show: project.with(
   title: "Tutoreninfo Studier Langsam 2023",
   authors: (
@@ -9,8 +12,10 @@
   ),
   date: [
     Stand vom 
-    #datetime.today().display("[day]. [month repr:long] [year]") \
-    Änderungen seit Prerelease sind #text(green, weight: "bold")[grün] markiert.],
+    #datetime.today().display("[day]. [month repr:long] [year]")
+    #if markChanges [\
+      Änderungen seit Prerelease ssind #text(green, weight: "bold")[grün] markiert.]
+    ]
 )
 
 

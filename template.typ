@@ -4,7 +4,7 @@
   set page(numbering: "1", number-align: center, paper: "a4")
 
   // Save heading and body font families in variables.
-  // TODO: does not load the fonts for some reason
+  // TODO: does not load the fonts for some reason (does not matter)
   let body-font = "LM Roman 10"
   let sans-font = "LM Sans 10"
 
@@ -45,4 +45,3 @@
 
 #let mono(body) = text(font: "Latin Modern Mono")[#body]
 #let dict(..body) = table(columns: 2, stroke: none, ..body)
-#let neu = text(green, weight: "bold")[Neu seit Prerelease:\ ]
