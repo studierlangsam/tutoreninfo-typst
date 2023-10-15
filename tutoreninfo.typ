@@ -119,7 +119,8 @@ Das am Besten über Linus machen.
 === Becher
 
 Wir haben über die Fachschaft eine 240er-Box HaDiKo-Becher kostenlos geliehen.
-Um diese zu spülen dürfen wir die Spülmaschinen in den Küchenecken des ersten Stocks benutzen.
+Um diese zu spülen dürfen wir die Spülmaschine in der Küchenecke im ersten
+Stock, die am nächsten zur Fachschaft ist (Meetingpoint 1.072), benutzen.
 
 == Schließfächer
 
