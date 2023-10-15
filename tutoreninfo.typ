@@ -50,13 +50,12 @@ Den Raum -1.015 haben wir die ganze Woche (Mo-Fr) und können ihn damit als Lage
 
 Für beide Räume zusammen wird Anfang der O-Phase eine Kaution von 50~€ hinterlegt, die nach der O-Phase zurückerstattet wird.
 Wir entrichten sie in Bar, vermutlich am Sonntag oder Montag.
+Die Räume können von FSlern mit einem Schnlüssel aus der FSM geschlossen werden.
 
 #neu
 Wer an welchen Programmpunkten nicht teilnehmen kann, steht in #link("https://airtable.com/appRVKuyH5AG2YXoN/tbldiiOmpKigSk2Oq/viwbLPUSupN0JWxTs?blocks=hide")[Airtable].
 
 = Wochenplan <wochenplan>
-// TODO wenn webseite fertig: ICS verlinken
-Gibt es auch als ICS.
 #v(-2em)
 #scale(120%, origin: top)[
   #image("assets/Wochenplan.svg")
@@ -164,6 +163,10 @@ Diese Illusion wollen wir ihm nicht nehmen.
 
 #neu
 In der O-Phase sind beide Fachschaften von 08 Uhr Morgens bis 02 Uhr Nachts durchgehend besetzt.
+
+== Die Kuh
+
+Die Lila Pause darf zeitweise (insbesondere Nachts) ihre Kuh in unserem Zimmer unterstellen. Nicht wundern also, wenn da eine lebensgroße Lila Kuh bei uns rumsteht.
 
 == Infos für Erstis
 
@@ -295,18 +298,22 @@ Folgende allgemeine Infos sollten die Erstis noch erhalten:
 - Wer noch keine Visitenkarte hat, sollte jetzt eine bekommen
 - Wer noch nicht auf dem Discord ist, sollte mit dem QR-Code auf der Visitenkarte beitreten
 - Wochenplan bis morgen
-  - Wie viele kommen zum Frühstück? $->$ Linda 
+  - Frühstück
+    - Wie viele kommen? $->$ Linda 
+  - Mensa
+  - FBI
+  - O-Phest
   - Bouldern
-    - Fahrrad mitbringen!
+    - Fahrrad mitbringen! 
+      - Wie viele haben eins da?
     - Sportsachen mitbringen (Straßenklamotten tun es aber tatsächlich auch)
     - Nägel schneiden
-- Bild hochladen für KIT-Card, wir können auch beim Abholen helfen
+- Bild hochladen für KIT-Card, wir holen die fehlenden morgen vor der Mensa ab
 
 === Kennenlernen <kennenlernen>
 
-// AUFGABE
 #neu
-*Wichtig*: Jemand (mind. 2 Leute) muss die QR-Codes für die Schnitzeljagd aufhängen
+*Wichtig*: Vorbereitung für #link(label("schnitzeljagd"))[Schnitzeljagd] muss vor Beginn selbiger geschehen.
 
 Bälle und Bingoblätter gibt es bei Linda abzuholen.
 
@@ -368,21 +375,21 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
   Die Felder auf den Bingoblättern mit Namen von
   Anderen füllen, welche die jeweilige Eigenschaft haben.
 
-=== Campustour / Schnitzeljagd
+=== Campustour / Schnitzeljagd <schnitzeljagd>
 
-#neu
 Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618")[Discord Channel].
 
 Größtenteils statisch und öffentlich bei bwsyncandshare gehostet.
 Bei Schreibrätseln sind sie in Klarsichtfolien vor Ort ausgehängt.
 
+#neu
 - Es gibt MINT + 11 Stationen (DoublyLinkedList) + Ende.
-- Turing und Lovelace gehen in unterschiedliche Richtungen.
-// TODO: Einteilung
 // AUFGABE
+- 2 Menschen mit jeweils einem Klebeband und Fahrrad hängen die QR-Code auf.
+- Turing und Lovelace gehen in unterschiedliche Richtungen.
 - Immer zwei Tutors betreuen eine Hand voll Stationen.
-  - Die Tutoren nehmen für ihre Stationen die laminierten Aushänge und ggf. noch Aufgabenblätter mit
-  - Am Mathe- und Infobau sollen Tutoren Miniführungen geben
+  - Die Tutoren nehmen für ihre Stationen die Aufgabenblätter mit
+  - Am Mathe- und Infobau sollen Tutoren *Miniführungen* geben
 - Ende ist im Fasanengarten, da gibt es Kekse nach sagen des Codeworts. Das Codewort ist "Dominik" bzw. "Alina" für die entsprechenden Gruppen.
 - Linda bringt das ganze Zeug mit (Klarsichtfolien gehören ihr und bekommt sie zurück)
 
@@ -391,6 +398,16 @@ Hinweise am Anfang:
 - #text(green)[Grün] markiert ist Turing, #text(orange)[Orange] markiert ist Lovelace.
 - Tipp: merk euch, wenn ihr an Lernplätzen vorbeikommt, ihr werdet euch im Winter freuen, wenn ihr einen Geheimtipp kennt.
 
+#neu
+Einteilung:
+#dict(
+  [HSaF, Infobau], [Linus, Leo, Max],
+  [Bib, Mensa], [Jan-Arne, Cian],
+  [AKK, Audimax, Chemie], [Anh, Yannick, Leon],
+  [Grashof, Hertz, Benz], [Linda, Karina,\ Dominik],
+  [Mathebau], [Alina, Jonas]
+)
+
 === #link(label("cocktailabend"))[Cocktailabend]-Interesse abfragen
 
 Per Nachricht und Reaktionen im Discord.
@@ -398,7 +415,7 @@ Per Nachricht und Reaktionen im Discord.
 === Raumbedarf klären
 
 #neu
-Dominik klärt mit Jakob die Raumsituation
+Dominik klärt mit Jakob die #link("https://orga.shirkanesi.com/rooms/")[Raumsituation]
 + am Mittwoch Morgen und
 + am Donnerstag Abend. 
 
@@ -423,7 +440,7 @@ Mindestens Linus geht hin.
 === Frühstück
 
 9 Uhr. \
-Lovelace: Coffee Box (25 Leute) \
+Lovelace: Coffee Box (25 Leute, wollen möglichst früh genauere Zahl) \
 Turing: alinacafe (25 Leute) \
 
 Tutoren bringen (Karten)-spiele mit.
@@ -494,9 +511,10 @@ Für Mathe Master gibt es am Dinestag zusätzlich das Doktorand:innen-Café.
 
 16 Uhr / nach FBI, Forum
 
-// TODO: hoffentlich haben genug Leute ein eigenes Rad. Wahrscheinlich ist das nicht wirklich so - daher sollten wir einen Ausweichplan haben
 Eigenes Fahrrad + Volljährig $->$ Steil \
 Alle anderen $->$ Boulderwelt
+
+Wenn wir nach dieser Aufteilung die Boulderwelt überrennen sollten ($>40$ Leute), dann gibt es auch eine Gruppe, die mit dem Bus zum Steil fährt.
 
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
 Dann muss man an den Eingängen der Boulderhallen nicht so lange warten.
@@ -519,11 +537,12 @@ Auch Steil und Boulderwelt bieten jeweils eine überschaubare Karte an Pizza, Fl
 
 === O-Phest <o-phest>
 
-ab 18 Uhr, AKK.
+Einlass ab 18 Uhr gelant, AKK.
 
-Wir empfehlen, ab 20 Uhr zu kommen, weil es erfahrungsgemäß erst etwas später wirklich losgeht.
+Wir empfehlen, um ab ca. 19:30 Uhr zu kommen, weil es erfahrungsgemäß erst etwas später wirklich losgeht. Zu spät wird es natürlich auch voll.
 
-// FSTODO: Bändchen Regelung (wenn zu spontan, dann in den Discord)
+Es gibt Bändchen für Ü16 und für Ü18, due man irgendwoher bekommen muss.
+Genaueres erfahren wir in der Woche.
 
 === O-Philm I
 
@@ -715,7 +734,7 @@ Kleingeld und Biertische gibt es bei Luca.
 
 Teilnahme nur nach Anmeldung bis zum Vorabend.
 Am Eingang wird das Alter (von Unbekannten) abgefragt und Stempel vergeben.
-Je nach Bändchenregelung am #link(label("o-phest"))[O-Phest] kann man ggf Volljährigkeit daran erkennen.
+An Bändchen vom #link(label("o-phest"))[O-Phest] kann man ggf. Volljährigkeit erkennen.
 An der Bar werden (mindestens stichprobenartig) Stempel kontrolliert.
 
 Die Preise sind:
