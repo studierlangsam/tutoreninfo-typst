@@ -1,4 +1,4 @@
-#import "@preview/tablex:0.0.5": gridx, hlinex, vlinex
+#import "@preview/tablex:0.0.5": gridx, hlinex, vlinex, colspanx
 #import "template.typ": *
 
 #show: project.with(
@@ -112,6 +112,11 @@ Die Bestellung ist auf Kommision, sodass wir nicht Benötigtes vollständig erst
 Sollten wir merken, dass es knapp wird, können wir eventuell auch noch "Nachbestellen" bzw. Reserven der Fachschaft nutzen, die dann natürlich auch gezahlt werden müssen.
 Das am Besten über Linus machen.
 
+=== Becher
+
+Wir haben über die Fachschaft eine 240er-Box HaDiKo-Becher kostenlos geliehen.
+Um diese zu spülen dürfen wir die Spülmaschinen in den Küchenecken des ersten Stocks benutzen.
+
 == Schließfächer
 
 #neu
@@ -122,9 +127,12 @@ Wir haben zwei Schließfächer im Infobau, die für Parkspiele gedacht sind:
 
   [*Gruppe*], [*Nr*], [*Inhalt*],
   [Lovelace], [104], [
-    Schildikostüm, Wikingerschach, Kreppband, Eddings
+    Schildikostüm, Kreppband, Eddings,
+    Wikingerschach, Frisbee, Spikeballset
   ],
-  [Turing], [80 ], [Slackline, Wikingerschach von Dominik]
+  [Turing], [80], [
+    Slackline, Wikingerschach, Frisbee von Dominik
+  ]
 ) 
 
 Die Gesetze der Schlüssel:
@@ -164,7 +172,7 @@ Man findet in sehr vielen (v.a. inhaltlichen) Fragen Hilfe auf #link(label("disc
 Man kann als Info Ana und LA für Mathes hören.
 Die beiden LAs werden dieses Jahr getrennt ablaufen.
 Dieses Jahr sind die Mathe-Vorlesungen als Info eher mit Vorsicht zu genießen.
-(Hundertmark vs Herzog, Hartnick vs Kühnlein/Dahmen)
+(Hundertmark vs Tolksdorf (neu), Hartnick vs Kühnlein/Dahmen)
 
 Niemand wird in ein Doppelstudium gebaitet.
 Dazu gehört, dass nicht durch eine Häufung von Doppelstudierenden in unseren Reihen der Eindruck entsteht, das würde fast jeder machen.
@@ -361,18 +369,26 @@ Wenn Erstis ohnehinschon alle Gespräche führen und von den Spielen eher generv
 
 === Campustour / Schnitzeljagd
 
-// TODO wenn fertig: Infos auch hier hin packen.
+#neu
 Siehe #link("https://discord.com/channels/739522765677133894/1119999452858564618")[Discord Channel].
 
-Größtenteils statisch und öffentlich online gehostet.
+Größtenteils statisch und öffentlich bei bwsyncandshare gehostet.
 Bei Schreibrätseln sind sie in Klarsichtfolien vor Ort ausgehängt.
 
-// AUFGABE / TODO: Einteilung machen
-Tutoren gehen rum und schauen nach dem Rechten.
+- Es gibt MINT + 11 Stationen (DoublyLinkedList) + Ende.
+- Turing und Lovelace gehen in unterschiedliche Richtungen.
+// TODO: Einteilung
+// AUFGABE
+- Immer zwei Tutors betreuen eine Hand voll Stationen.
+  - Die Tutoren nehmen für ihre Stationen die laminierten Aushänge und ggf. noch Aufgabenblätter mit
+  - Am Mathe- und Infobau sollen Tutoren Miniführungen geben
+- Ende ist im Fasanengarten, da gibt es Kekse nach sagen des Codeworts. Das Codewort ist "Dominik" bzw. "Alina" für die entsprechenden Gruppen.
+- Linda bringt das ganze Zeug mit (Klarsichtfolien gehören ihr und bekommt sie zurück)
 
 Hinweise am Anfang:
-- Alle Ziele sind auf dem Campus Süd.
-- Wenn ihr euch lost fühlt, dann ruft uns an.
+- Wenn ihr euch lost fühlt, dann sprecht oder ruft uns an.
+- #text(green)[Grün] markiert ist Turing, #text(orange)[Orange] markiert ist Lovelace.
+- Tipp: merk euch, wenn ihr an Lernplätzen vorbeikommt, ihr werdet euch im Winter freuen, wenn ihr einen Geheimtipp kennt.
 
 === #link(label("cocktailabend"))[Cocktailabend]-Interesse abfragen
 
@@ -450,8 +466,8 @@ Dabei helfen wir ihnen und verteilen uns dafür ggf. auf die verschiedenen Aufwe
   hlinex(),
   [Infobau Getränkeautomat], X, o,
   [Mathebau Getränkeautomat], X, o,
-  [Hauptbib], o, o,
-  [Chemie-Cafeteria], o, o,
+  [Hauptbib], X, o,
+  [Chemie-Cafeteria], colspanx(2)[#align(center)[k.A.]],
 )
 
 Extensive Autoload-Werbung ist gestattet.
@@ -469,12 +485,15 @@ Termine:
 )
 
 Für #link(label("lehramt"))[Lehramt] gibt es gesondert am Mittwoch Programm.
-Für Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institutsvorstellung].
+Für Info Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institutsvorstellung].
+Für Mathe Master gibt es am Dinestag zusätzlich das Doktorand:innen-Café.
+// TODO: Uhrzeit rausfinden, Kapitel erstellen und hier verlinken
 
 === Bouldern <bouldern>
 
 16 Uhr / nach FBI, Forum
 
+// TODO: hoffentlich haben genug Leute ein eigenes Rad. Wahrscheinlich ist das nicht wirklich so - daher sollten wir einen Ausweichplan haben
 Eigenes Fahrrad + Volljährig $->$ Steil \
 Alle anderen $->$ Boulderwelt
 
@@ -531,6 +550,7 @@ Tutoren bringen (Karten-)Spiele mit.
 Florian und Jan-Arne besorgt 2 Brötchen pro Person.
 Linda bringt veganen Waffelteig und Fett mit.
 Tamira, Cian und Jonas machen Waffeln.
+Linus bringt Holzbesteck mit.
 
 Wir leihen 2 Waffeleisen bei der Fachschaft.
 - sind #link("https://wiki.fsmi.org/wiki/Waffeleisen")[reserviert] (bei Julian Roßkothen)
@@ -554,7 +574,7 @@ Die Fragebögen für die O-Rallye werden in der Fachschaft
 abgeholt und um 11 Uhr an die Erstis (zur Selbstorganisation) übergeben.
 Es sollten immer Tutoren für Rückfragen o.ä. im Seminarraum sein.
 
-Während der O-Phase wird die Kneipentour konkreter geplant und genappt.
+Während der O-Rallye wird die Kneipentour konkreter geplant und genappt.
 
 === Lehramtinformation <lehramt>
 
@@ -567,7 +587,6 @@ Gegebenenfalls werden Erstis von einem Tutor dorthin (Geb. 11.10, Engelbert-Arno
 === Institutsvorstellung <institut>
 
 Um 14:30 - 16:30 Uhr im Audimax werden Mathe- und Infoinstitute für Master-Erstis vorgestellt.
-Das ist neben der #link(label("fbi"))[FBI] das einzige Master-spezifische Programm.
 
 === Kneipentour <kneipentour>
 
