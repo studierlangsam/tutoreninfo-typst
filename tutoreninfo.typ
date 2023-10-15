@@ -1,7 +1,7 @@
 #import "@preview/tablex:0.0.5": gridx, hlinex, vlinex, colspanx
 #import "template.typ": *
 
-#let markChanges = true
+#let markChanges = false
 #let neu = if markChanges {text(green, weight: "bold")[Neu seit Prerelease:\ ]}
 
 #show: project.with(
@@ -118,6 +118,7 @@ Das am Besten über Linus machen.
 
 === Becher
 
+#neu
 Wir haben über die Fachschaft eine 240er-Box HaDiKo-Becher kostenlos geliehen.
 Um diese zu spülen dürfen wir die Spülmaschine in der Küchenecke im ersten
 Stock, die am nächsten zur Fachschaft ist (Meetingpoint 1.072), benutzen.
@@ -456,7 +457,8 @@ Für Regenwetter haben wir die unsere #link(label("rooms"))[Räume] im Mathebau 
 Die Räume können bei der FSM abgeholt werden.
 Raum -1.014 muss bis 14~Uhr geräumt und zurückgegeben sein.
 
-Jetzt ist auch ein guter Zeitpunkt, um mit Leuten noch ihre KIT-Karte abzuholen.
+#neu
+Jetzt ist auch ein guter Zeitpunkt, um mit Leuten noch ihre KIT-Karte abzuholen oder Bändchen für das #link(label("o-phest"))[O-Phest] in den Fachschaften abzuholen.
 
 === Mensa
 
@@ -520,6 +522,7 @@ Matheinstitute bzw. -doktoranden stellen sich vor.
 Eigenes Fahrrad + Volljährig $->$ Steil \
 Alle anderen $->$ Boulderwelt
 
+#neu
 Wenn wir nach dieser Aufteilung die Boulderwelt überrennen sollten ($>40$ Leute), dann gibt es auch eine Gruppe, die mit dem Bus zum Steil fährt.
 
 Wenn die FBIs gestaffelt aufhören, kann es sinnvoll sein, auch gestaffelt loszugehen.
@@ -547,8 +550,8 @@ Einlass ab 18 Uhr gelant, AKK.
 
 Wir empfehlen, um ab ca. 19:30 Uhr zu kommen, weil es erfahrungsgemäß erst etwas später wirklich losgeht. Zu spät wird es natürlich auch voll.
 
-Es gibt Bändchen für Ü16 und für Ü18, due man irgendwoher bekommen muss.
-Genaueres erfahren wir in der Woche.
+#neu
+Es gibt Bändchen für Ü16 und für Ü18, die man am O-Grillen und danach in den Fachschaften erwerben kann.
 
 === O-Philm I
 
