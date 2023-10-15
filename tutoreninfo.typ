@@ -281,8 +281,7 @@ Auf dem Weg holt Linus mit Helfern #link(label("getränke"))[Getränke] aus dem 
 
 === Zensus und Steuereintreibung <zensus>
 
-// AUFGABE Linus braucht dafür auf jeden Fall eine zweite Person
-Linus sammelt getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
+Linus und Anh sammeln getrennt nach Gruppen von allen Erstis und TutorInnen Geld ein.
 #dict(
   [10~€], [mit Pizza],
   [4~€], [ohne Pizza],
@@ -416,6 +415,7 @@ Per Nachricht und Reaktionen im Discord.
 
 #neu
 Dominik klärt mit Jakob die #link("https://orga.shirkanesi.com/rooms/")[Raumsituation]
++ bei schlechtem Wetter Dienstag Morgen,
 + am Mittwoch Morgen und
 + am Donnerstag Abend. 
 
@@ -503,9 +503,14 @@ Termine:
 )
 
 Für #link(label("lehramt"))[Lehramt] gibt es gesondert am Mittwoch Programm.
-Für Info Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institutsvorstellung].
-Für Mathe Master gibt es am Dinestag zusätzlich das Doktorand:innen-Café.
-// TODO: Uhrzeit rausfinden, Kapitel erstellen und hier verlinken
+Für Info Master gibt es am Mittwoch zusätzlich die #link(label("institut"))[Institutsvorstellung] und für Mathe Master folgendes:
+
+=== Doktoranten-get-together <docs>
+
+#neu
+16:30 Uhr, Mathebau Raum -1.012
+
+Matheinstitute bzw. -doktoranden stellen sich vor.
 
 === Bouldern <bouldern>
 
@@ -606,7 +611,7 @@ Gegebenenfalls werden Erstis von einem Tutor dorthin (Geb. 11.10, Engelbert-Arno
 
 === Institutsvorstellung <institut>
 
-Um 14:30 - 16:30 Uhr im Audimax werden Mathe- und Infoinstitute für Master-Erstis vorgestellt.
+Um 14:30 - 16:30 Uhr im Audimaxfoyer werden Infoinstitute für Master-Erstis vorgestellt.
 
 === Kneipentour <kneipentour>
 
