@@ -225,7 +225,6 @@ Einkaufsliste:
 - Spüli, Lappen/Schwamm
 
 Dominik holt das Schild von Peter.
-// TODO Dominik: neu ankündigen
 
 === Begrüßungsveranstaltung
 
@@ -254,9 +253,6 @@ Späteres Zusammenlegen vorbehalten.
 Die Untergruppen geben, sobald sie ankommen, allen Erstis Namensschilder (Kreppband + Edding), begrüßen sie und *binden sie in Gespräche ein* (bis zu den Kennenlernspielen).
 Dabei kann schoneinmal darauf hingewiesen werden, dass sie alle auf den #link(label("discord"))[Discord] sollen.
 
-// TODO letzte Woche vor O-Phase:
-// Freischaltung im Discord ersetzen mit Reaction Role
-// Kleingruppe, Studiengang (Erstirolle automatisch)
 
 === Pizza
 
