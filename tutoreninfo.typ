@@ -418,7 +418,7 @@ Mindestens Linus geht hin.
 === Frühstück
 
 9 Uhr. \
-Lovelace: TODO (Coffee Box) \
+Lovelace: Coffee Box (25 Leute) \
 Turing: alinacafe (25 Leute) \
 
 Tutoren bringen (Karten)-spiele mit.
